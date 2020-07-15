@@ -1,5 +1,7 @@
 ![](Help/Images/cover.png)
 
+## Banking Structure
+
 ```
 
                      ┌─────────────────────────┐
