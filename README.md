@@ -64,12 +64,8 @@
 ![](Help/Images/payment.png)
 
 
-
 ## Help
-* [Download All]()
 * [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx)
-
-
 
 ## Brought to you by
 * **Abhimanyu Rana** - [planetabhi](http://planetabhi.com)
@@ -77,4 +73,4 @@
 
 
 ## License
-This project is licensed under the GNU License - see the [LICENSE.md](Banks%20In%20India/LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE.md](Banks%20in%20India/LICENSE) file for details.
