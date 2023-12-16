@@ -1,0 +1,27 @@
+{
+  "name": "banks-in-india",
+  "version": "0.1.0",
+  "description": "Banks of India: A collection of websites & icons, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planetabhi/banks-in-india.git"
+  },
+  "keywords": [
+    "india",
+    "banks",
+    "list",
+    "logos",
+    "icons",
+    "websites"
+  ],
+  "author": "Abhimanyu Rana @planetabhi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/planetabhi/banks-in-india/issues"
+  },
+  "homepage": "https://github.com/planetabhi/banks-in-india#readme"
+}
