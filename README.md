@@ -159,7 +159,7 @@ Sr. No | Name | Website
 1 | Assam Gramin Vikash Bank | [agvbank.co.in](http://www.agvbank.co.in/)
 2 | Andhra Pradesh Grameena Vikas Bank | [apgvbank.in](https://www.apgvbank.in/)
 3 | Andhra Pragathi Grameena Bank | [apgb.in](http://www.apgb.in/)
-4 | Arunachal Pradesh Rural Bank | [apruralbank.com](https://www.apruralbank.com/)
+4 | Arunachal Pradesh Rural Bank | [apruralbank.co.in](hhttps://www.apruralbank.co.in/)
 5 | Aryavart Bank | [aryavart-rrb.com](http://www.aryavart-rrb.com/)
 6 | Bangiya Gramin Vikash Bank | [bgvb.in](https://bgvb.in/)
 7 | Baroda Gujarat Gramin Bank | [bggb.in](http://www.bggb.in/)
