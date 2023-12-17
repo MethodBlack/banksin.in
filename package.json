@@ -19,7 +19,8 @@
     "url": "git+https://github.com/planetabhi/banks-in-india.git"
   },
   "files": [
-    "icons/"
+    "icons/",
+    "dataset/"
   ],
   "keywords": [
     "india",
