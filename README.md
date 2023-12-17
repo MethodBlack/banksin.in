@@ -1,6 +1,13 @@
 # Banks in India
 A collection of websites & icons, and more.
 
+## Installation
+Install Banks in India from your terminal via npm.
+
+```
+npm i banks-in-india
+```
+
 > **Please note:** I'm in the process of refactoring the icons, and the updated library and assets will be released shortly.
 
 ## Table of Contents
@@ -261,4 +268,4 @@ Sr. No | Name | Website
 [^2]: Sonali Bank website link has been confirmed by the bank. However, the bank has informed that the website is not yet complete and is under development and up gradation.
 
 ## About
-This project is licensed under the [GNU License](/LICENSE) · For SSOT, please refer to the [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://twitter.com/planetabhi), Method Black Studio.
+This project is licensed under the [GNU License](/LICENSE) · For SSOT, please refer to the [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://twitter.com/planetabhi).
