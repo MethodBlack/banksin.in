@@ -54,10 +54,11 @@ fs.readFile(__dirname + '/style.css', function (err, styleData) {
       var preContent = `
       <html lang="en" data-new-ui-theme="light">
         <head>
-          <title>` + pageTitle + `</title>
+          <title> Banks in India: A collection of websites & icons, and more. </title>
           <meta name="viewport" content="width=device-width, initial-scale=1">
-          <meta name="Keywords" content="banks, india, list, icons, logos, websites">
-          <meta name="Description" content="Banks in India: A collection of websites & icons, and more.">
+          <meta name="keywords" content="banks, india, list, icons, logos, websites">
+          <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/bi_placeholder.png">
+          <meta name="description" content="Banks in India: A collection of websites & icons, and more.">
           <meta charset="UTF-8">`
 
       if (plausibleDomain.length > 0) {
