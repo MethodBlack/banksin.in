@@ -261,4 +261,4 @@ Sr. No | Name | Website | Icon
 [^2]: Sonali Bank website link has been confirmed by the bank. However, the bank has informed that the website is not yet complete and is under development and up gradation.
 
 ### About
-This project is licensed under the [GNU License](/LICENSE) · For SSOT, please refer to the [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://twitter.com/planetabhi).
+This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/LICENSE) · For SSOT, please refer to the [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://twitter.com/planetabhi).
