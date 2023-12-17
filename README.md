@@ -1,7 +1,7 @@
 # Banks in India
 A collection of websites & icons, and more.
 
-> **Please note:** I'm in the process of refactoring the icons, and the updated library and assets will be released shortly. Please stay tuned to the repository for further updates.
+> **Please note:** I'm in the process of refactoring the icons, and the updated library and assets will be released shortly.
 
 ## Table of Contents
 - [Banking Structure](#banking-structure)
