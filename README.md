@@ -171,7 +171,7 @@ Sr. No | Name | Website
 13 | Ellaquai Dehati Bank | [edb.org.in](https://www.edb.org.in/)
 14 | Himachal Pradesh Gramin Bank | [hpgb.in](http://www.hpgb.in/)
 15 | J&K Grameen Bank | [jkgb.in](http://www.jkgb.in/)
-16 | Jharkhand Rajya Gramin Bank | [jrgb.in](http://www.jrgb.in/)
+16 | Jharkhand Rajya Gramin Bank | [jrgbank.in](http://jrgbank.in/)
 17 | Karnataka Gramin Bank | [karnatakagraminbank.com](http://www.karnatakagraminbank.com/)
 18 | Karnataka Vikas Gramin Bank | [kvgbank.com](http://www.kvgbank.com/)
 19 | Kerala Gramin Bank | [keralagbank.com](http://www.keralagbank.com/)
