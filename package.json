@@ -29,6 +29,14 @@
     "icons",
     "websites"
   ],
+  "overrides": {
+    "vite": {
+      "rollup": "npm:@rollup/wasm-node"
+    }
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "4.6.1"
+  },
   "author": "Abhimanyu Rana <contact@new-ui.com> (https://planetabhi.netlify.app/)",
   "license": "GPL-3.0",
   "bugs": {
