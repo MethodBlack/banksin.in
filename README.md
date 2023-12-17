@@ -175,7 +175,7 @@ Sr. No | Name | Website
 17 | Karnataka Gramin Bank | [karnatakagraminbank.com](http://www.karnatakagraminbank.com/)
 18 | Karnataka Vikas Gramin Bank | [kvgbank.com](http://www.kvgbank.com/)
 19 | Kerala Gramin Bank | [keralagbank.com](http://www.keralagbank.com/)
-20 | Madhya Pradesh Gramin Bank | [mpgb.co.in](https://www.mpgb.co.in/)
+20 | Madhya Pradesh Gramin Bank | [mpgb.co.in](https://mpgb.co.in/)
 21 | Madhyanchal Gramin Bank | [mgbank.co.in](http://www.mgbank.co.in/)
 22 | Maharashtra Gramin Bank | [mahagramin.in](https://www.mahagramin.in/)
 23 | Manipur Rural Bank | [manipurruralbank.com](http://www.manipurruralbank.com/)
