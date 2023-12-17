@@ -189,7 +189,7 @@ Sr. No | Name | Website
 31 | Punjab Gramin Bank | [pgb.org.in](http://www.pgb.org.in/)
 32 | Rajasthan Marudhara Gramin Bank | [rmgb.in](http://www.rmgb.in/)
 33 | Saptagiri Grameena Bank | [saptagirigrameenabank.in](http://www.saptagirigrameenabank.in/)
-34 | Sarva Haryana Gramin Bank | [shgb.co.in](http://www.shgb.co.in/)
+34 | Sarva Haryana Gramin Bank | [shgb.co.in](https://shgb.co.in/)
 35 | Saurashtra Gramin Bank | [sgbrrb.org](https://sgbrrb.org/)
 36 | Tamil Nadu Grama Bank | [tamilnadugramabank.com](http://www.tamilnadugramabank.com/)
 37 | Telangana Grameena Bank | [tgbhyd.in](http://www.tgbhyd.in/)
