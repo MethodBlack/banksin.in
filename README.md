@@ -113,7 +113,7 @@ Sr. No | Name | Website | Icon
 6 | NSDL Payments Bank Limited | [nsdlbank.com](https://nsdlbank.com/) | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_nsdlbank.png)
 
 <div align="right" class="toc-link">
-    <a href="#table-of-contents">↑ Back to Top</a>
+    <a href="#banks-in-india">↑ Back to Top</a>
 </div>
 
 ### List of Public Sector Banks in India
@@ -134,7 +134,7 @@ Sr. No | Name | Website | Icon
 12 | Union Bank of India | [unionbankonline.co.in](https://www.unionbankonline.co.in/) | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_unionbankonline.png)
 
 <div align="right" class="toc-link">
-    <a href="#table-of-contents">↑ Back to Top</a>
+    <a href="#banks-in-india">↑ Back to Top</a>
 </div>
 
 ### List of Financial Institutions in India
@@ -147,7 +147,7 @@ Sr. No | Name | Website | Icon
 4 | Small Industries Development Bank of India | [sidbi.in](https://www.sidbi.in/) | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/financial_institutions/bi_sidbi.png)
 
 <div align="right" class="toc-link">
-    <a href="#table-of-contents">↑ Back to Top</a>
+    <a href="#banks-in-india">↑ Back to Top</a>
 </div>
 
 ### List of Regional Rural Banks in India 
@@ -199,7 +199,7 @@ Sr. No | Name | Website | Icon
 43 | Uttarakhand Gramin Bank | [uttarakhandgraminbank.com](http://www.uttarakhandgraminbank.com/) | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/regional_rural_banks/bi_uttarakhandgraminbank.png)
 
 <div align="right" class="toc-link">
-    <a href="#table-of-contents">↑ Back to Top</a>
+    <a href="#banks-in-india">↑ Back to Top</a>
 </div>
 
 ### List of Foreign Banks Having Banking Presence in India
@@ -252,7 +252,7 @@ Sr. No | Name | Website | Icon
 44 | Woori Bank | [go.wooribank.com](https://go.wooribank.com/in/ib/main/IbMain.do) | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/foreign_banks/bi_wooribank.png)
 
 <div align="right" class="toc-link">
-    <a href="#table-of-contents">↑ Back to Top</a>
+    <a href="#banks-in-india">↑ Back to Top</a>
 </div>
 
 
