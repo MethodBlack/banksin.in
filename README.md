@@ -164,7 +164,7 @@ Sr. No | Name | Website
 6 | Bangiya Gramin Vikash Bank | [bgvb.in](https://bgvb.in/)
 7 | Baroda Gujarat Gramin Bank | [bggb.in](http://www.bggb.in/)
 8 | Baroda Rajasthan Kshetriya Gramin Bank | [brkgb.com](http://www.brkgb.com/)
-9 | Baroda UP Bank | [barodagraminbank.com](http://www.barodagraminbank.com/)
+9 | Baroda UP Bank | [barodaupbank.in](https://barodaupbank.in/)
 10 | Chaitanya Godavari GB | [cggb.in](http://www.cggb.in/)
 11 | Chhattisgarh Rajya Gramin Bank | [cgbank.in](http://www.cgbank.in/)
 12 | Dakshin Bihar Gramin Bank | [dbgb.in](http://www.dbgb.in/)
