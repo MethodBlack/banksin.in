@@ -290,6 +290,15 @@ Below is the file structure of a Banks in India project:
 
 ### Other Related Resources
 - [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx)
+- [NEFT IFSCs from RBI](https://rbidocs.rbi.org.in/rdocs/content/docs/68774.xlsx)
+- [RTGS IFSCs from RBI](https://rbidocs.rbi.org.in/rdocs/RTGS/DOCs/RTGEB0815.xlsx)
+- [List of Banks in India](https://www.rbi.org.in/commonman/english/scripts/banksinindia.aspx)
+- [Banks Live on NACH](https://www.npci.org.in/what-we-do/nach/live-members/live-banks)
+- [Banks Live on IMPS](https://www.npci.org.in/what-we-do/imps/live-members)
+- [Banks Live on AutoPay](https://www.npci.org.in/what-we-do/autopay/list-of-banks-and-apps-live-on-autopay)
+- [RuPay Live Members](https://www.npci.org.in/what-we-do/rupay/live-members)
+- [Merged banks IFSC and MICR Codes](https://www.npci.org.in/PDF/npci/ifsc-and-micr-codes/Merged-banks-IFSC-and-MICR.xlsx)
+- [Blocked Banks on NACH](https://www.npci.org.in/what-we-do/nach/live-members/blocked-banks)
 
 ### About
 This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/).
