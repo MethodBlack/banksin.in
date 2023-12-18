@@ -37,6 +37,8 @@ Below is the file structure of a Banks in India project:
 ```
 
 ### Downloads
+> Note: I'm working on adding essential bank codes like IFSC, SWIFT, MICR, BSR, and BIC to the listing before releasing the main dataset. Please follow the repo for updates.
+
 - [Download Icons & Datasets](https://github.com/planetabhi/banks-in-india/archive/HEAD.zip)
 - [Get a Figma Icon Library](https://www.figma.com/community/file/1317927956872893042/banks-in-india)
 

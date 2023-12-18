@@ -127,7 +127,7 @@ blockquote {
 blockquote * {
     font-style: normal !important;
     letter-spacing: 0;
-    color: #6a737d !important;
+    color: var(--text-secondary);
 }
 
 table {
