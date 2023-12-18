@@ -23,7 +23,7 @@ Below is the file structure of a Banks in India project:
 ```asciidoc
 .
 └── banks-in-india/
-    ├── datasets
+    ├── datasets/
     │   └── banks-names.json
     └── icons/
         ├── financial_institutions/
