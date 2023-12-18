@@ -102,7 +102,7 @@ pre>code {
 }
 
 code.asciidoc {
-    font-size: 11px;
+    font-size: 12px;
     color: var(--text-primary-alt);
 }
 
@@ -216,6 +216,7 @@ h4 {
 
 .toc-link {
     font-size: var(--desktop-body-sm);
+    padding-right: var(--spacing-05);
 }
 
 @media only screen and (max-width: 540px) {

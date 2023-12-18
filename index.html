@@ -23,6 +23,7 @@
 <p><code>Beta</code> <a href="https://banksin.in/">[banksin.in]</a> A collection of websites &amp; icons, and more.</p>
 <ul>
 <li><a href="#installation">Installation</a></li>
+<li><a href="#downloads">Downloads</a></li>
 <li><a href="#banking-structure">Banking Structure</a></li>
 <li><a href="#list-of-private-sector-banks-in-india">Private Sector Banks</a></li>
 <li><a href="#list-of-public-sector-banks-in-india">Public Sector Banks</a></li>
@@ -34,6 +35,26 @@
 <p>Install from your terminal via npm.</p>
 <pre><code class="bash language-bash">npm i banks-in-india
 </code></pre>
+<p>Below is the file structure of a Banks in India project:</p>
+<pre><code class="asciidoc language-asciidoc"><span class="hljs-bullet">.
+</span>└── banks-in-india/
+<span class="hljs-code">    ├── datasets</span>
+<span class="hljs-code">    │   └── banks-names.json</span>
+<span class="hljs-code">    └── icons/</span>
+<span class="hljs-code">        ├── financial_institutions/</span>
+<span class="hljs-code">        ├── foreign_banks/</span>
+<span class="hljs-code">        ├── local_area_banks/</span>
+<span class="hljs-code">        ├── payment_banks/</span>
+<span class="hljs-code">        ├── private_sector_banks/</span>
+<span class="hljs-code">        ├── public_sector_banks/</span>
+<span class="hljs-code">        ├── regional_rurual_banks/</span>
+<span class="hljs-code">        └── small_finance_banks/</span>
+</code></pre>
+<h3 id="downloads">Downloads</h3>
+<ul>
+<li><a href="https://github.com/planetabhi/banks-in-india/archive/HEAD.zip">Download Icons & Datasets</a></li>
+<li><a href="https://www.figma.com/community/file/1317927956872893042/banks-in-india">Get a Figma Icon Library</a></li>
+</ul>
 <h3 id="banking-structure">Banking Structure</h3>
 <pre><code class="asciidoc language-asciidoc"><span class="hljs-code">                     ┌─────────────────────────┐</span>
 <span class="hljs-code">                     │   Ministry of Finance   │</span>
@@ -1325,7 +1346,7 @@ pre>code {
 }
 
 code.asciidoc {
-    font-size: 11px;
+    font-size: 12px;
     color: var(--text-primary-alt);
 }
 
@@ -1439,6 +1460,7 @@ h4 {
 
 .toc-link {
     font-size: var(--desktop-body-sm);
+    padding-right: var(--spacing-05);
 }
 
 @media only screen and (max-width: 540px) {

@@ -2,6 +2,7 @@
 `Beta` [[banksin.in]](https://banksin.in/) A collection of websites & icons, and more.
 
 - [Installation](#installation)
+- [Downloads](#downloads)
 - [Banking Structure](#banking-structure)
 - [Private Sector Banks](#list-of-private-sector-banks-in-india)
 - [Public Sector Banks](#list-of-public-sector-banks-in-india)
@@ -15,6 +16,28 @@ Install from your terminal via npm.
 ```bash
 npm i banks-in-india
 ```
+Below is the file structure of a Banks in India project:
+
+```asciidoc
+.
+└── banks-in-india/
+    ├── datasets
+    │   └── banks-names.json
+    └── icons/
+        ├── financial_institutions/
+        ├── foreign_banks/
+        ├── local_area_banks/
+        ├── payment_banks/
+        ├── private_sector_banks/
+        ├── public_sector_banks/
+        ├── regional_rurual_banks/
+        └── small_finance_banks/
+```
+
+
+### Downloads
+- [Download Icons & Datasets](https://github.com/planetabhi/banks-in-india/archive/HEAD.zip)
+- [Get a Figma Icon Library](https://www.figma.com/community/file/1317927956872893042/banks-in-india)
 
 ### Banking Structure
 
