@@ -254,10 +254,15 @@ npm i banks-in-india
     <a href="#banks-in-india">↑ Back to Top</a>
 </div>
 
+<div class="footnote">
 
 [^1]: Krung Thai Bank Public Co. Ltd does not maintain any Indian specific website or page. Therefore, there is no link to provide. However, on global website, it provides details of branch presence in India which can be seen through the indicated link.
 
+<br><br>
+
 [^2]: Sonali Bank website link has been confirmed by the bank. However, the bank has informed that the website is not yet complete and is under development and up gradation.
+
+</div>
 
 ### About
 This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/LICENSE) · For SSOT, please refer to the [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/).

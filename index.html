@@ -1,5 +1,5 @@
 
-      <html lang="en" data-new-ui-theme="light">
+      <html lang="en" data-new-ui-theme="dark--warm">
         <head>
           <title> Banks in India: A collection of websites & icons, and more. </title>
           <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1199,8 +1199,15 @@
 <div align="right" class="toc-link">
     <a href="#banks-in-india">↑ Back to Top</a>
 </div>
-<p>[^1]: Krung Thai Bank Public Co. Ltd does not maintain any Indian specific website or page. Therefore, there is no link to provide. However, on global website, it provides details of branch presence in India which can be seen through the indicated link.</p>
-<p>[^2]: Sonali Bank website link has been confirmed by the bank. However, the bank has informed that the website is not yet complete and is under development and up gradation.</p>
+<div class="footnote">
+
+[^1]: Krung Thai Bank Public Co. Ltd does not maintain any Indian specific website or page. Therefore, there is no link to provide. However, on global website, it provides details of branch presence in India which can be seen through the indicated link.
+
+<br><br>
+
+[^2]: Sonali Bank website link has been confirmed by the bank. However, the bank has informed that the website is not yet complete and is under development and up gradation.
+
+</div>
 <h3 id="about">About</h3>
 <p>This project is licensed under the <a href="https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/LICENSE">GNU License</a> · For SSOT, please refer to the <a href="https://www.rbi.org.in/scripts/banklinks.aspx">RBI Listing</a> · Brought to you by <strong>Abhimanyu Rana</strong> - <a href="https://planetabhi.netlify.app/">@planetabhi</a>.</p>
 
@@ -1282,8 +1289,9 @@ pre {
 }
 
 code {
-    background-color: rgba(27, 31, 35, .05);
+    background-color: var(--background-secondary);
     margin: 0;
+    color: var(--support-warning);
     word-wrap: break-word;
     padding: .2em .4em;
     font-family: var(--system-code);
@@ -1305,6 +1313,7 @@ pre>code {
 
 code.asciidoc {
     font-size: 11px;
+    color: var(--text-primary-alt);
 }
 
 code>* {
@@ -1348,8 +1357,6 @@ td {
 td img {
     width: 24px;
     height: 24px;
-    box-shadow: 0px 0px 0px 1px rgba(0,0,0,.06),0px 1px 1px -0.5px rgba(0,0,0,.04),0px 3px 3px -1.5px rgba(0,0,0,.04),0px 6px 6px -3px rgba(0,0,0,.04),0px 12px 12px -6px rgba(0,0,0,.04),0px 24px 24px -8px rgba(0,0,0,.04);
-    border-radius: 4px;
 }
 
 td img:hover {
@@ -1400,6 +1407,12 @@ h3 {
 
 h4 {
     margin-bottom: var(--spacing-06);
+}
+
+.footnote {
+    margin-top: var(--spacing-08);
+    font-size: var(--desktop-body-sm);
+    color: var(--text-secondary);
 }
 
 .toc-link {
