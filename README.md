@@ -80,7 +80,7 @@ Below is the file structure of a Banks in India project:
 ### List of Private Sector Banks in India
 
 #### Private Sector Banks (21)
-&nbsp; | Icon | Code | Name | Website
+&nbsp; | Icon | Bank Code (Based on IFSC) | Name | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_axisbank.png) | `UTIB` | Axis Bank Ltd. | [axisbank.com](https://www.axisbank.com/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_bandhanbank.png) | `BDBL` | Bandhan Bank Ltd. | [bandhanbank.com](https://www.bandhanbank.com/?ref=banksin.in)
@@ -105,13 +105,13 @@ Below is the file structure of a Banks in India project:
 21 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_idbi.png) | `IBKL` | IDBI Bank Limited | [idbi.com](https://www.idbi.com/?ref=banksin.in)
 
 #### Local Area Banks or LAB (2)
-&nbsp; | Icon | Code | Name | Website
+&nbsp; | Icon | Bank Code (Based on IFSC) | Name | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/local_area_banks/bi_coastalareabank.png) | `COAS` | Coastal Local Area Bank Ltd | [coastalareabank.com](http://www.coastalareabank.com/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/local_area_banks/bi_kbsbankindia.png) | `KBSX` | Krishna Bhima Samruddhi LAB Ltd | [kbsbankindia.com](http://www.kbsbankindia.com/?ref=banksin.in)
 
 #### Small Finance Banks or SFB (12)
-&nbsp; | Icon | Code | Name | Website
+&nbsp; | Icon | Bank Code (Based on IFSC) | Name | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_aubank.png) | `AUBL` | Au Small Finance Bank Ltd. | [aubank.in](https://www.aubank.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_capitalbank.png) | `CLBL` | Capital Small Finance Bank Ltd. | [capitalbank.co.in](http://www.capitalbank.co.in/?ref=banksin.in)
@@ -127,7 +127,7 @@ Below is the file structure of a Banks in India project:
 12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_theunitybank.png) | `UNBA` | Unity Small Finance Bank Ltd | [theunitybank.com](https://theunitybank.com/?ref=banksin.in)
 
 #### Payments Banks or PB (6)
-&nbsp; | Icon | Code | Name | Website
+&nbsp; | Icon | Bank Code (Based on IFSC) | Name | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/payments_banks/bi_airtel.png) | `AIRP` | Airtel Payments Bank Ltd | [airtel.in/bank](https://www.airtel.in/bank/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/payments_banks/bi_ippbonline.png) | `IPOS` | India Post Payments Bank Ltd | [ippbonline.com](https://ippbonline.com/web/ippb/?ref=banksin.in)
@@ -141,7 +141,7 @@ Below is the file structure of a Banks in India project:
 
 ### List of Public Sector Banks in India
 #### Public Sector Banks (12)
-&nbsp; | Icon | Code | Name | Website
+&nbsp; | Icon | Bank Code (Based on IFSC) | Name | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/public_sector_banks/bi_bankofbaroda.png) | `BARB` | Bank of Baroda | [bankofbaroda.co.in](https://www.bankofbaroda.co.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/public_sector_banks/bi_bankofindia.png) | `BKID` | Bank of India | [bankofindia.co.in](https://www.bankofindia.co.in/?ref=banksin.in)
@@ -162,7 +162,7 @@ Below is the file structure of a Banks in India project:
 
 ### List of Financial Institutions in India
 #### Financial Institutions (4)
-&nbsp; | Icon | Code | Name | Website
+&nbsp; | Icon | Bank Code (Based on IFSC) | Name | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/financial_institutions/bi_nabard.png) | `NBRD` | National Bank for Agriculture and Rural Development | [nabard.org](http://www.nabard.org/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/financial_institutions/bi_eximbankindia.png) | `EIBI` | Export-Import Bank of India | [eximbankindia.in](https://www.eximbankindia.in/?ref=banksin.in)
@@ -175,22 +175,22 @@ Below is the file structure of a Banks in India project:
 
 ### List of Regional Rural Banks in India 
 #### Regional Rural Banks or RRB (43)
-&nbsp; | Icon | Code | Name | Website
+&nbsp; | Icon | Bank Code (Based on IFSC) | Name | Website
 :--- |:--- |:--- |:--- |---:
-1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_agvbank.png) | `XXXX` | Assam Gramin Vikash Bank | [agvbank.co.in](http://www.agvbank.co.in/?ref=banksin.in)
-2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_apgvbank.png) | `XXXX` | Andhra Pradesh Grameena Vikas Bank | [apgvbank.in](https://www.apgvbank.in/?ref=banksin.in)
-3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_apgb.png) | `XXXX` | Andhra Pragathi Grameena Bank | [apgb.in](http://www.apgb.in/?ref=banksin.in)
-4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_apruralbank.png) | `XXXX` | Arunachal Pradesh Rural Bank | [apruralbank.co.in](https://www.apruralbank.co.in/?ref=banksin.in)
-5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_aryavart-rrb.png) | `XXXX` | Aryavart Bank | [aryavart-rrb.com](http://www.aryavart-rrb.com/?ref=banksin.in)
-6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_bgvb.png) | `XXXX` | Bangiya Gramin Vikash Bank | [bgvb.in](https://bgvb.in/?ref=banksin.in)
-7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_bggb.png) | `XXXX` | Baroda Gujarat Gramin Bank | [bggb.in](http://www.bggb.in/?ref=banksin.in)
-8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_brkgb.png) | `XXXX` | Baroda Rajasthan Kshetriya Gramin Bank | [brkgb.com](http://www.brkgb.com/?ref=banksin.in)
-9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_barodaupbank.png) | `XXXX` | Baroda UP Bank | [barodaupbank.in](https://barodaupbank.in/?ref=banksin.in)
-10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_cggb.png) | `XXXX` | Chaitanya Godavari GB | [cggb.in](http://www.cggb.in/?ref=banksin.in)
-11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_cgbank.png) | `XXXX` | Chhattisgarh Rajya Gramin Bank | [cgbank.in](http://www.cgbank.in/?ref=banksin.in)
-12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_dbgb.png) | `XXXX` | Dakshin Bihar Gramin Bank | [dbgb.in](http://www.dbgb.in/?ref=banksin.in)
-13 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_edb.png) | `XXXX` | Ellaquai Dehati Bank | [edb.org.in](https://www.edb.org.in/?ref=banksin.in)
-14 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_hpgb.png) | `XXXX` | Himachal Pradesh Gramin Bank | [hpgb.in](http://www.hpgb.in/?ref=banksin.in)
+1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_agvbank.png) | `AGVX` | Assam Gramin Vikash Bank | [agvbank.co.in](http://www.agvbank.co.in/?ref=banksin.in)
+2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_apgvbank.png) | `APGV` | Andhra Pradesh Grameena Vikas Bank | [apgvbank.in](https://www.apgvbank.in/?ref=banksin.in)
+3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_apgb.png) | `APGB` | Andhra Pragathi Grameena Bank | [apgb.in](http://www.apgb.in/?ref=banksin.in)
+4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_apruralbank.png) | `APRX` | Arunachal Pradesh Rural Bank | [apruralbank.co.in](https://www.apruralbank.co.in/?ref=banksin.in)
+5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_aryavart-rrb.png) | `ARYX` | Aryavart Bank | [aryavart-rrb.com](http://www.aryavart-rrb.com/?ref=banksin.in)
+6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_bgvb.png) | `BGVX` | Bangiya Gramin Vikash Bank | [bgvb.in](https://bgvb.in/?ref=banksin.in)
+7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_bggb.png) | `BGGX` | Baroda Gujarat Gramin Bank | [bggb.in](http://www.bggb.in/?ref=banksin.in)
+8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_brkgb.png) | `BRGX` | Baroda Rajasthan Kshetriya Gramin Bank | [brkgb.com](http://www.brkgb.com/?ref=banksin.in)
+9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_barodaupbank.png) | `BUGX` | Baroda UP Bank | [barodaupbank.in](https://barodaupbank.in/?ref=banksin.in)
+10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_cggb.png) | `CGGX` | Chaitanya Godavari GB | [cggb.in](http://www.cggb.in/?ref=banksin.in)
+11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_cgbank.png) | `CRGB` | Chhattisgarh Rajya Gramin Bank | [cgbank.in](http://www.cgbank.in/?ref=banksin.in)
+12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_dbgb.png) | `MBGX` | Dakshin Bihar Gramin Bank | [dbgb.in](http://www.dbgb.in/?ref=banksin.in)
+13 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_edb.png) | `EDBX` | Ellaquai Dehati Bank | [edb.org.in](https://www.edb.org.in/?ref=banksin.in)
+14 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_hpgb.png) | `HMBX` | Himachal Pradesh Gramin Bank | [hpgb.in](http://www.hpgb.in/?ref=banksin.in)
 15 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_jkgb.png) | `XXXX` | J&K Grameen Bank | [jkgb.in](http://www.jkgb.in/?ref=banksin.in)
 16 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_jrgb.png) | `XXXX` | Jharkhand Rajya Gramin Bank | [jrgbank.in](http://jrgbank.in/?ref=banksin.in)
 17 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_karnatakagraminbank.png) | `XXXX` | Karnataka Gramin Bank | [karnatakagraminbank.com](http://www.karnatakagraminbank.com/?ref=banksin.in)
@@ -227,7 +227,7 @@ Below is the file structure of a Banks in India project:
 
 ### List of Foreign Banks Having Banking Presence in India
 #### Foreign Banks (44)
-&nbsp; | Icon | Code | Name | Website
+&nbsp; | Icon | Bank Code (Based on IFSC) | Name | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_abbl.png) | `XXXX` | AB Bank Ltd. | [abbl.com](http://abbl.com/mumbai-branch/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_americanexpress.png) | `XXXX` | American Express Banking Corporation | [americanexpress.com](https://www.americanexpress.com/in/?ref=banksin.in)
