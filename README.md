@@ -1,5 +1,5 @@
 # Banks in India
-`Beta` [[banksin.in]](https://banksin.in/) A collection of websites & icons, and more.
+`Beta` [[banksin.in]](https://banksin.in/) A collection of websites & icons, and more for all active banks in India.
 
 - [Installation](#installation)
 - [Downloads](#downloads)
@@ -9,6 +9,7 @@
 - [Financial Institutions](#list-of-financial-institutions-in-india)
 - [Regional Rural Banks](#list-of-regional-rural-banks-in-india)
 - [Foreign Banks](#list-of-foreign-banks-having-banking-presence-in-india)
+- [Other Related Resources](#other-related-resources)
 
 ### Installation
 Install from your terminal via npm.
@@ -16,6 +17,7 @@ Install from your terminal via npm.
 ```bash
 npm i banks-in-india
 ```
+
 Below is the file structure of a Banks in India project:
 
 ```asciidoc
@@ -33,7 +35,6 @@ Below is the file structure of a Banks in India project:
         ├── regional_rurual_banks/
         └── small_finance_banks/
 ```
-
 
 ### Downloads
 - [Download Icons & Datasets](https://github.com/planetabhi/banks-in-india/archive/HEAD.zip)
@@ -287,5 +288,8 @@ Below is the file structure of a Banks in India project:
 
 </div>
 
+### Other Related Resources
+- [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx)
+
 ### About
-This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · For SSOT, please refer to the [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/).
+This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/).

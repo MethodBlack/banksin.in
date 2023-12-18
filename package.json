@@ -1,7 +1,7 @@
 {
   "name": "banks-in-india",
   "version": "0.1.5",
-  "description": "Banks in India: A collection of websites & icons, and more.",
+  "description": "Banks in India: A collection of websites & icons, and more for all active banks in India.",
   "main": "main.js",
   "scripts": {
     "clean": "rimraf icons package *.tgz",
