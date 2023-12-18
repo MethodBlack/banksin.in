@@ -1222,7 +1222,7 @@
 
 body {
     background-color: var(--background);
-    color: var(--text-primary);
+    color: var(--text-primary-alt);
     font-family: var(--system-ui);
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
@@ -1251,10 +1251,12 @@ summary {
 
 h1, h2 {
     margin-top: var(--spacing-12);
+    color: var(--text-primary);
 }
 
 h3, h4 {
     margin-top: var(--spacing-08);
+    color: var(--text-primary);
 }
 
 hr {
@@ -1286,6 +1288,7 @@ pre {
     overflow: auto;
     padding: 16px;
     font-size: var(--desktop-code);
+    border-radius: var(--spacing-02);
 }
 
 code {
@@ -1296,6 +1299,7 @@ code {
     padding: .2em .4em;
     font-family: var(--system-code);
     font-size: var(--desktop-body-sm);
+    border-radius: var(--spacing-02);
 }
 
 pre>code {
@@ -1326,7 +1330,7 @@ blockquote {
     margin-bottom: 16px;
     border-left-width: 3px;
     padding: 0 1em;
-    color: var(--text-secondary-alt);
+    color: var(--text-secondary);
     border-left: 4px solid var(--border-muted);
     padding-left: 15px;
     font-size: 18px;
@@ -1361,6 +1365,7 @@ td {
 td img {
     width: 24px;
     height: 24px;
+    border-radius: var(--spacing-02);
 }
 
 td img:hover {
@@ -1399,7 +1404,7 @@ img {
 p {
     line-height: var(--lh-desktop-body);
     font-size: var(--desktop-body);
-    color: var(--text-primary);
+    color: var(--text-primary-alt);
 }
 
 a:visited {
