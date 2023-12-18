@@ -1,6 +1,6 @@
 {
   "name": "banks-in-india",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Banks in India: A collection of websites & icons, and more.",
   "main": "main.js",
   "scripts": {
