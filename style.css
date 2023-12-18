@@ -16,7 +16,7 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-    margin: 0; 
+    margin: 0;
     padding: 0;
     font-size: var(--desktop-body);
 }
@@ -35,8 +35,13 @@ summary {
     text-decoration: underline;
 }
 
-h1, h2 { margin-top: var(--spacing-12);}
-h3, h4 { margin-top: var(--spacing-08);}
+h1, h2 {
+    margin-top: var(--spacing-12);
+}
+
+h3, h4 {
+    margin-top: var(--spacing-08);
+}
 
 hr {
     color: var(--border);
@@ -46,10 +51,6 @@ hr {
     padding: 0;
     border: none;
 }
-
-/**
- * Links
- */
 
 a {
     color: var(--link);
@@ -73,18 +74,13 @@ pre {
     font-size: var(--desktop-code);
 }
 
-
-/**
-  * Code blocks
-  */
-
 code {
     background-color: rgba(27, 31, 35, .05);
     margin: 0;
     word-wrap: break-word;
     padding: .2em .4em;
     font-family: var(--system-code);
-    font-size: var(--desktop-code);
+    font-size: var(--desktop-body-sm);
 }
 
 pre>code {
@@ -100,9 +96,13 @@ pre>code {
     font-family: var(--system-code);
 }
 
-/**
- * Blockquotes
- */
+code.asciidoc {
+    font-size: 11px;
+}
+
+code>* {
+    font-family: var(--system-code);
+}
 
 blockquote {
     margin-left: 30px;
@@ -124,11 +124,6 @@ blockquote * {
     color: #6a737d !important;
 }
 
-
-/**
- * Tables
- */
-
 table {
     font-size: var(--desktop-body-sm);
     overflow: auto;
@@ -143,14 +138,14 @@ td {
     border: 1px solid var(--border-muted);
 }
 
-td img{
+td img {
     width: 24px;
     height: 24px;
     box-shadow: 0px 0px 0px 1px rgba(0,0,0,.06),0px 1px 1px -0.5px rgba(0,0,0,.04),0px 3px 3px -1.5px rgba(0,0,0,.04),0px 6px 6px -3px rgba(0,0,0,.04),0px 12px 12px -6px rgba(0,0,0,.04),0px 24px 24px -8px rgba(0,0,0,.04);
     border-radius: 4px;
 }
 
-td img:hover{
+td img:hover {
     cursor: context-menu;
 }
 
@@ -200,18 +195,12 @@ h4 {
     margin-bottom: var(--spacing-06);
 }
 
-code>* {
-    font-family: var(--system-code);
-}
-
 .toc-link {
     font-size: var(--desktop-body-sm);
 }
 
-@media screen and (min-width: 540px) {
-    
-}
-
 @media only screen and (max-width: 540px) {
-    table { display: block; }
+    table {
+        display: block;
+    }
 }

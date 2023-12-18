@@ -1,5 +1,5 @@
-# Banks in India [Beta]
-[[banksin.in]](https://banksin.in/) A collection of websites & icons, and more.
+# Banks in India
+`Beta` [[banksin.in]](https://banksin.in/) A collection of websites & icons, and more.
 
 - [Installation](#installation)
 - [Banking Structure](#banking-structure)
@@ -18,7 +18,7 @@ npm i banks-in-india
 
 ### Banking Structure
 
-```bash
+```asciidoc
                      ┌─────────────────────────┐
                      │   Ministry of Finance   │
                      └────────────┬────────────┘
@@ -56,81 +56,81 @@ npm i banks-in-india
 ### List of Private Sector Banks in India
 
 #### Private Sector Banks (21)
-Sr. No. | Icon | Code | Name | Website
-:--- |:--- |:--- |:--- |:---
-1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_axisbank.png) | `XXXX` | Axis Bank Ltd. | [axisbank.com](https://www.axisbank.com/)
-2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_bandhanbank.png) | `XXXX` | Bandhan Bank Ltd. | [bandhanbank.com](https://www.bandhanbank.com/)
-3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_csb.png) | `XXXX` | CSB Bank Limited | [csb.co.in](http://www.csb.co.in/)
-4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_cityunionbank.png) | `XXXX` | City Union Bank Ltd. | [cityunionbank.com](https://www.cityunionbank.com/)
-5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_dcbbank.png) | `XXXX` | DCB Bank Ltd. | [dcbbank.com](https://www.dcbbank.com/)
-6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_dhanbank.png) | `XXXX` | Dhanlaxmi Bank Ltd. | [dhanbank.com](https://www.dhanbank.com/)
-7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_federalbank.png) | `XXXX` | Federal Bank Ltd. | [federalbank.co.in](https://www.federalbank.co.in/)
-8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_hdfcbank.png) | `XXXX` | HDFC Bank Ltd | [hdfcbank.com](https://www.hdfcbank.com/)
-9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_icicibank.png) | `XXXX` | ICICI Bank Ltd. | [icicibank.com](https://www.icicibank.com/)
-10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_indusind.png) | `XXXX` | IndusInd Bank Ltd | [indusind.com](https://www.indusind.com/)
-11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_idfcbank.png) | `XXXX` | IDFC FIRST Bank Limited | [idfcbank.com](https://www.idfcbank.com/)
-12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_jkbank.png) | `XXXX` | Jammu & Kashmir Bank Ltd. | [jkbank.com](https://www.jkbank.com/)
-13 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_karnatakabank.png) | `XXXX` | Karnataka Bank Ltd. | [karnatakabank.com](https://karnatakabank.com/)
-14 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_kvb.png) | `XXXX` | Karur Vysya Bank Ltd. | [kvb.co.in](http://www.kvb.co.in/)
-15 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_kotak.png) | `XXXX` | Kotak Mahindra Bank Ltd | [kotak.com](https://www.kotak.com/)
-16 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_nainitalbank.png) | `XXXX` | Nainital bank Ltd. | [nainitalbank.co.in](http://www.nainitalbank.co.in/)
-17 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_rblbank.png) | `XXXX` | RBL Bank Ltd. | [rblbank.com](https://www.rblbank.com/)
-18 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_southindianbank.png) | `XXXX` | South Indian Bank Ltd. | [southindianbank.com](https://www.southindianbank.com/)
-19 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_tmb.png) | `XXXX` | Tamilnad Mercantile Bank Ltd. | [tmb.in](http://www.tmb.in/)
-20 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_yesbank.png) | `XXXX` | YES Bank Ltd. | [yesbank.in](https://www.yesbank.in/)
-21 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_idbi.png) | `XXXX` | IDBI Bank Limited | [idbi.com](https://www.idbi.com/)
+&nbsp; | Icon | Code | Name | Website
+:--- |:--- |:--- |:--- |---:
+1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_axisbank.png) | `UTIB` | Axis Bank Ltd. | [axisbank.com](https://www.axisbank.com/)
+2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_bandhanbank.png) | `BDBL` | Bandhan Bank Ltd. | [bandhanbank.com](https://www.bandhanbank.com/)
+3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_csb.png) | `CSBK` | CSB Bank Limited | [csb.co.in](http://www.csb.co.in/)
+4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_cityunionbank.png) | `CIUB` | City Union Bank Ltd. | [cityunionbank.com](https://www.cityunionbank.com/)
+5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_dcbbank.png) | `DCBL` | DCB Bank Ltd. | [dcbbank.com](https://www.dcbbank.com/)
+6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_dhanbank.png) | `DLXB` | Dhanlaxmi Bank Ltd. | [dhanbank.com](https://www.dhanbank.com/)
+7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_federalbank.png) | `FDRL` | Federal Bank Ltd. | [federalbank.co.in](https://www.federalbank.co.in/)
+8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_hdfcbank.png) | `HDFC` | HDFC Bank Ltd | [hdfcbank.com](https://www.hdfcbank.com/)
+9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_icicibank.png) | `ICIC` | ICICI Bank Ltd. | [icicibank.com](https://www.icicibank.com/)
+10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_indusind.png) | `INDB` | IndusInd Bank Ltd | [indusind.com](https://www.indusind.com/)
+11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_idfcbank.png) | `IDFB` | IDFC FIRST Bank Limited | [idfcbank.com](https://www.idfcbank.com/)
+12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_jkbank.png) | `JAKA` | Jammu & Kashmir Bank Ltd. | [jkbank.com](https://www.jkbank.com/)
+13 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_karnatakabank.png) | `KARB` | Karnataka Bank Ltd. | [karnatakabank.com](https://karnatakabank.com/)
+14 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_kvb.png) | `KVBL` | Karur Vysya Bank Ltd. | [kvb.co.in](http://www.kvb.co.in/)
+15 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_kotak.png) | `KKBK` | Kotak Mahindra Bank Ltd | [kotak.com](https://www.kotak.com/)
+16 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_nainitalbank.png) | `NTBL` | Nainital Bank Ltd. | [nainitalbank.co.in](http://www.nainitalbank.co.in/)
+17 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_rblbank.png) | `RATN` | RBL Bank Ltd. | [rblbank.com](https://www.rblbank.com/)
+18 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_southindianbank.png) | `SIBL` | South Indian Bank Ltd. | [southindianbank.com](https://www.southindianbank.com/)
+19 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_tmb.png) | `TMBL` | Tamilnad Mercantile Bank Ltd. | [tmb.in](http://www.tmb.in/)
+20 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_yesbank.png) | `YESB` | YES Bank Ltd. | [yesbank.in](https://www.yesbank.in/)
+21 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/private_sector_banks/bi_idbi.png) | `IBKL` | IDBI Bank Limited | [idbi.com](https://www.idbi.com/)
 
 #### Local Area Banks or LAB (2)
-Sr. No. | Icon | Code | Name | Website
-:--- |:--- |:--- |:--- |:---
-1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/local_area_banks/bi_coastalareabank.png) | `XXXX` | Coastal Local Area Bank Ltd | [coastalareabank.com](http://www.coastalareabank.com/)
-2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/local_area_banks/bi_kbsbankindia.png) | `XXXX` | Krishna Bhima Samruddhi LAB Ltd | [kbsbankindia.com](http://www.kbsbankindia.com/)
+&nbsp; | Icon | Code | Name | Website
+:--- |:--- |:--- |:--- |---:
+1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/local_area_banks/bi_coastalareabank.png) | `COAS`, `COLX` | Coastal Local Area Bank Ltd | [coastalareabank.com](http://www.coastalareabank.com/)
+2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/local_area_banks/bi_kbsbankindia.png) | `KBSX` | Krishna Bhima Samruddhi LAB Ltd | [kbsbankindia.com](http://www.kbsbankindia.com/)
 
 #### Small Finance Banks or SFB (12)
-Sr. No. | Icon | Code | Name | Website
-:--- |:--- |:--- |:--- |:---
-1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_aubank.png) | `XXXX` | Au Small Finance Bank Ltd. | [aubank.in](https://www.aubank.in/)
-2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_capitalbank.png) | `XXXX` | Capital Small Finance Bank Ltd. | [capitalbank.co.in](http://www.capitalbank.co.in/)
-3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_fincarebank.png) | `XXXX` | Fincare Small Finance Bank Ltd. | [fincarebank.com](http://fincarebank.com/)
-4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_equitasbank.png) | `XXXX` | Equitas Small Finance Bank Ltd | [equitasbank.com](https://www.equitasbank.com/)
-5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_esafbank.png) | `XXXX` | ESAF Small Finance Bank Ltd. | [esafbank.com](https://www.esafbank.com/)
-6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_suryodaybank.png) | `XXXX` | Suryoday Small Finance Bank Ltd. | [suryodaybank.com](https://www.suryodaybank.com/)
-7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_ujjivansfb.png) | `XXXX` | Ujjivan Small Finance Bank Ltd. | [ujjivansfb.in](https://www.ujjivansfb.in/)
-8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_utkarsh.png) | `XXXX` | Utkarsh Small Finance Bank Ltd. | [utkarsh.bank](https://www.utkarsh.bank/)
-9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_nesfb.png) | `XXXX` | North East Small finance Bank Ltd | [nesfb.com](https://nesfb.com/)
-10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_janabank.png) | `XXXX` | Jana Small Finance Bank Ltd. | [janabank.com](https://www.janabank.com/)
-11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_shivalikbank.png) | `XXXX` | Shivalik Small Finance Bank Ltd | [shivalikbank.com](https://shivalikbank.com/)
-12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_theunitybank.png) | `XXXX` | Unity Small Finance Bank Ltd | [theunitybank.com](https://theunitybank.com/)
+&nbsp; | Icon | Code | Name | Website
+:--- |:--- |:--- |:--- |---:
+1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_aubank.png) | `AUBL` | Au Small Finance Bank Ltd. | [aubank.in](https://www.aubank.in/)
+2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_capitalbank.png) | `CLBL` | Capital Small Finance Bank Ltd. | [capitalbank.co.in](http://www.capitalbank.co.in/)
+3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_fincarebank.png) | `FINF`, `FSFB` | Fincare Small Finance Bank Ltd. | [fincarebank.com](http://fincarebank.com/)
+4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_equitasbank.png) | `ESFB` | Equitas Small Finance Bank Ltd | [equitasbank.com](https://www.equitasbank.com/)
+5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_esafbank.png) | `ESAF`, `ESMF` | ESAF Small Finance Bank Ltd. | [esafbank.com](https://www.esafbank.com/)
+6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_suryodaybank.png) | `SURY` | Suryoday Small Finance Bank Ltd. | [suryodaybank.com](https://www.suryodaybank.com/)
+7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_ujjivansfb.png) | `UJVN`, `USFB` | Ujjivan Small Finance Bank Ltd. | [ujjivansfb.in](https://www.ujjivansfb.in/)
+8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_utkarsh.png) | `UTKS` | Utkarsh Small Finance Bank Ltd. | [utkarsh.bank](https://www.utkarsh.bank/)
+9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_nesfb.png) | `NESF` | North East Small Finance Bank Ltd | [nesfb.com](https://nesfb.com/)
+10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_janabank.png) | `JSFB` | Jana Small Finance Bank Ltd. | [janabank.com](https://www.janabank.com/)
+11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_shivalikbank.png) | `SHIX`, `SMCB` | Shivalik Small Finance Bank Ltd | [shivalikbank.com](https://shivalikbank.com/)
+12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/small_finance_banks/bi_theunitybank.png) | `UNBA` | Unity Small Finance Bank Ltd | [theunitybank.com](https://theunitybank.com/)
 
 #### Payments Banks or PB (6)
-Sr. No. | Icon | Code | Name | Website
-:--- |:--- |:--- |:--- |:---
-1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_airtel.png) | `XXXX` | Airtel Payments Bank Ltd | [airtel.in/bank](https://www.airtel.in/bank)
-2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_ippbonline.png) | `XXXX` | India Post Payments Bank Ltd | [ippbonline.com](https://ippbonline.com/web/ippb)
-3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_finobank.png) | `XXXX` | FINO Payments Bank Ltd | [finobank.com](https://www.finobank.com/)
-4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_paytmbank.png) | `XXXX` | Paytm Payments Bank Ltd | [paytmbank.com](http://www.paytmbank.com/)
-5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_jiopaymentsbank.png) | `XXXX` | Jio Payments Bank Ltd | [jiopaymentsbank.com](https://www.jiopaymentsbank.com/)
-6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_nsdlbank.png) | `XXXX` | NSDL Payments Bank Limited | [nsdlbank.com](https://nsdlbank.com/)
+&nbsp; | Icon | Code | Name | Website
+:--- |:--- |:--- |:--- |---:
+1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_airtel.png) | `AIRP` | Airtel Payments Bank Ltd | [airtel.in/bank](https://www.airtel.in/bank)
+2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_ippbonline.png) | `IPOS`, `IPPB` | India Post Payments Bank Ltd | [ippbonline.com](https://ippbonline.com/web/ippb)
+3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_finobank.png) | `FINO` | FINO Payments Bank Ltd | [finobank.com](https://www.finobank.com/)
+4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_paytmbank.png) | `PYTM` | Paytm Payments Bank Ltd | [paytmbank.com](http://www.paytmbank.com/)
+5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_jiopaymentsbank.png) | `JIOP` | Jio Payments Bank Ltd | [jiopaymentsbank.com](https://www.jiopaymentsbank.com/)
+6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/payments_banks/bi_nsdlbank.png) | `NSPB` | NSDL Payments Bank Limited | [nsdlbank.com](https://nsdlbank.com/)
 <div align="right" class="toc-link">
     <a href="#banks-in-india">↑ Back to Top</a>
 </div>
 
 ### List of Public Sector Banks in India
 #### Public Sector Banks (12)
-Sr. No. | Icon | Code | Name | Website
-:--- |:--- |:--- |:--- |:---
-1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_bankofbaroda.png) | `XXXX` | Bank of Baroda | [bankofbaroda.co.in](https://www.bankofbaroda.co.in/)
-2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_bankofindia.png) | `XXXX` | Bank of India | [bankofindia.co.in](https://www.bankofindia.co.in/)
-3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_bankofmaharashtra.png) | `XXXX` | Bank of Maharashtra | [bankofmaharashtra.in](https://www.bankofmaharashtra.in/)
-4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_canarabank.png) | `XXXX` | Canara Bank | [canarabank.com](https://www.canarabank.com/)
-5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_centralbankofindia.png) | `XXXX` | Central Bank of India | [centralbankofindia.co.in](https://www.centralbankofindia.co.in/)
-6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_indianbank.png) | `XXXX` | Indian Bank | [indianbank.in](http://www.indianbank.in/)
-7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_iob.png) | `XXXX` | Indian Overseas Bank | [iob.in](https://www.iob.in/)
-8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_punjabandsindbank.png) | `XXXX` | Punjab & Sind Bank | [punjabandsindbank.co.in](https://punjabandsindbank.co.in/)
-9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_pnbindia.png) | `XXXX` | Punjab National Bank | [pnbindia.in](https://www.pnbindia.in/)
-10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_sbi.png) | `XXXX` | State Bank of India | [sbi.co.in](https://www.sbi.co.in/)
-11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_ucobank.png) | `XXXX` | UCO Bank | [ucobank.com](https://www.ucobank.com/)
-12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_unionbankonline.png) | `XXXX` | Union Bank of India | [unionbankonline.co.in](https://www.unionbankonline.co.in/)
+&nbsp; | Icon | Code | Name | Website
+:--- |:--- |:--- |:--- |---:
+1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_bankofbaroda.png) | `BARB` | Bank of Baroda | [bankofbaroda.co.in](https://www.bankofbaroda.co.in/)
+2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_bankofindia.png) | `BKID` | Bank of India | [bankofindia.co.in](https://www.bankofindia.co.in/)
+3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_bankofmaharashtra.png) | `MAHB` | Bank of Maharashtra | [bankofmaharashtra.in](https://www.bankofmaharashtra.in/)
+4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_canarabank.png) | `CNRB` | Canara Bank | [canarabank.com](https://www.canarabank.com/)
+5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_centralbankofindia.png) | `CBIN` | Central Bank of India | [centralbankofindia.co.in](https://www.centralbankofindia.co.in/)
+6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_indianbank.png) | `IDIB` | Indian Bank | [indianbank.in](http://www.indianbank.in/)
+7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_iob.png) | `IOBA` | Indian Overseas Bank | [iob.in](https://www.iob.in/)
+8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_punjabandsindbank.png) | `PSIB` | Punjab & Sind Bank | [punjabandsindbank.co.in](https://punjabandsindbank.co.in/)
+9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_pnbindia.png) | `PUNB` | Punjab National Bank | [pnbindia.in](https://www.pnbindia.in/)
+10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_sbi.png) | `SBIN` | State Bank of India | [sbi.co.in](https://www.sbi.co.in/)
+11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_ucobank.png) | `UCBA` | UCO Bank | [ucobank.com](https://www.ucobank.com/)
+12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/public_sector_banks/bi_unionbankonline.png) | `UBIN` | Union Bank of India | [unionbankonline.co.in](https://www.unionbankonline.co.in/)
 
 <div align="right" class="toc-link">
     <a href="#banks-in-india">↑ Back to Top</a>
@@ -138,12 +138,12 @@ Sr. No. | Icon | Code | Name | Website
 
 ### List of Financial Institutions in India
 #### Financial Institutions (4)
-Sr. No. | Icon | Code | Name | Website
-:--- |:--- |:--- |:--- |:---
-1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/financial_institutions/bi_nabard.png) | `XXXX` | National Bank for Agriculture and Rural Development | [nabard.org](http://www.nabard.org/)
-2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/financial_institutions/bi_eximbankindia.png) | `XXXX` | Export-Import Bank of India | [eximbankindia.in](https://www.eximbankindia.in/)
-3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/financial_institutions/bi_nabard.png) | `XXXX` | National Housing Bank | [nhb.org.in](https://nhb.org.in/)
-4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/financial_institutions/bi_sidbi.png) | `XXXX` | Small Industries Development Bank of India | [sidbi.in](https://www.sidbi.in/)
+&nbsp; | Icon | Code | Name | Website
+:--- |:--- |:--- |:--- |---:
+1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/financial_institutions/bi_nabard.png) | `NBRD` | National Bank for Agriculture and Rural Development | [nabard.org](http://www.nabard.org/)
+2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/financial_institutions/bi_eximbankindia.png) | `EIBI` | Export-Import Bank of India | [eximbankindia.in](https://www.eximbankindia.in/)
+3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/financial_institutions/bi_nabard.png) | `HDFC` | National Housing Bank | [nhb.org.in](https://nhb.org.in/)
+4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/financial_institutions/bi_sidbi.png) | `SIDB` | Small Industries Development Bank of India | [sidbi.in](https://www.sidbi.in/)
 
 <div align="right" class="toc-link">
     <a href="#banks-in-india">↑ Back to Top</a>
@@ -151,8 +151,8 @@ Sr. No. | Icon | Code | Name | Website
 
 ### List of Regional Rural Banks in India 
 #### Regional Rural Banks or RRB (43)
-Sr. No. | Icon | Code | Name | Website
-:--- |:--- |:--- |:--- |:---
+&nbsp; | Icon | Code | Name | Website
+:--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/regional_rural_banks/bi_agvbank.png) | `XXXX` | Assam Gramin Vikash Bank | [agvbank.co.in](http://www.agvbank.co.in/)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/regional_rural_banks/bi_apgvbank.png) | `XXXX` | Andhra Pradesh Grameena Vikas Bank | [apgvbank.in](https://www.apgvbank.in/)
 3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/regional_rural_banks/bi_apgb.png) | `XXXX` | Andhra Pragathi Grameena Bank | [apgb.in](http://www.apgb.in/)
@@ -203,8 +203,8 @@ Sr. No. | Icon | Code | Name | Website
 
 ### List of Foreign Banks Having Banking Presence in India
 #### Foreign Banks (44)
-Sr. No. | Icon | Code | Name | Website
-:--- |:--- |:--- |:--- |:---
+&nbsp; | Icon | Code | Name | Website
+:--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/foreign_banks/bi_abbl.png) | `XXXX` | AB Bank Ltd. | [abbl.com](http://abbl.com/mumbai-branch/)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/foreign_banks/bi_americanexpress.png) | `XXXX` | American Express Banking Corporation | [americanexpress.com](https://www.americanexpress.com/in/)
 3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/foreign_banks/bi_anz.png) | `XXXX` | Australia and New Zealand Banking Group Ltd. | [anz.com](http://www.anz.com/india/en/Corporate/)
