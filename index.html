@@ -1291,7 +1291,7 @@ pre {
 code {
     background-color: var(--background-secondary);
     margin: 0;
-    color: var(--support-warning);
+    color: var(--pink4);
     word-wrap: break-word;
     padding: .2em .4em;
     font-family: var(--system-code);
@@ -1347,11 +1347,15 @@ table {
     margin-bottom: 16px;
     border-spacing: 0;
     border-collapse: collapse;
+    border: 1px solid var(--border-muted);
 }
 
 td {
     padding: 4px 12px;
-    border: 1px solid var(--border-muted);
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid var(--border-muted);
+    border-left: none;
 }
 
 td img {
@@ -1366,17 +1370,21 @@ td img:hover {
 th {
     font-weight: 600;
     padding: 4px 12px;
-    border: 1px solid var(--border-muted);
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid var(--border-muted);
+    background-color: var(--background-secondary);
 }
 
 tr {
     background-color: var(--background);
-    border-top: 1px solid var(--border-muted);
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid var(--border-muted);
     transition: all .22s ease-out;
 }
 
 table tr:nth-child(2n) {
-    background-color: var(--background-secondary);
     transition: all .22s ease-out;
 }
 
