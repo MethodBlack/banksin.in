@@ -241,7 +241,7 @@ npm run dev
 &nbsp; | Icon | Name | Code (IFSC) | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_abbl.png) | AB Bank Ltd. | `ABBL` | [abbl.com](http://abbl.com/mumbai-branch/?ref=banksin.in)
-2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_americanexpress.png) | American Express Banking Corporation | `NA` | [americanexpress.com](https://www.americanexpress.com/in/?ref=banksin.in)
+2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_americanexpress.png) | American Express Banking Corporation | `XXXX` | [americanexpress.com](https://www.americanexpress.com/in/?ref=banksin.in)
 3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_anz.png) | Australia and New Zealand Banking Group Ltd. | `ANZB` | [anz.com](http://www.anz.com/india/en/Corporate/?ref=banksin.in)
 4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_barclays.png) | Barclays Bank Plc. | `BARC` | [barclays.in](https://www.barclays.in/?ref=banksin.in)
 5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bofa-india.png) | Bank of America | `BOFA` | [bofa-india.com](http://bofa-india.com/?ref=banksin.in)
