@@ -36,7 +36,7 @@
 <p>Install from your terminal via npm.</p>
 <pre><code class="bash language-bash">npm i banks-in-india
 </code></pre>
-<p>Below is the file structure of a Banks in India project:</p>
+<p>Below is the file structure:</p>
 <pre><code class="asciidoc language-asciidoc"><span class="hljs-bullet">.
 </span>└── banks-in-india/
 <span class="hljs-code">    ├── datasets/</span>
@@ -50,6 +50,13 @@
 <span class="hljs-code">        ├── public_sector_banks/</span>
 <span class="hljs-code">        ├── regional_rurual_banks/</span>
 <span class="hljs-code">        └── small_finance_banks/</span>
+</code></pre>
+<p>To run locally on your machine:</p>
+<pre><code class="bash language-bash">git <span class="hljs-built_in">clone</span> https://github.com/planetabhi/banks-in-india.git
+<span class="hljs-built_in">cd</span> banks-in-india
+npm install
+npm run generate-page
+npm run dev
 </code></pre>
 <h3 id="downloads">Downloads</h3>
 <ul>
@@ -1330,9 +1337,10 @@ pre {
     background-color: var(--background-secondary);
     line-height: 1.45;
     overflow: auto;
-    padding: 16px;
+    padding: var(--spacing-06);
     font-size: var(--desktop-code);
     border-radius: var(--spacing-02);
+    margin-bottom: var(--spacing-09);
 }
 
 code {
@@ -1366,6 +1374,12 @@ code.asciidoc {
 
 code>* {
     font-family: var(--system-code);
+}
+
+.hljs-built_in,
+.hljs-title.class_,
+.hljs-class .hljs-title {
+  color: var(--pink4) !important;
 }
 
 blockquote {

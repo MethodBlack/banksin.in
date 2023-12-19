@@ -18,7 +18,7 @@ Install from your terminal via npm.
 npm i banks-in-india
 ```
 
-Below is the file structure of a Banks in India project:
+Below is the file structure:
 
 ```asciidoc
 .
@@ -34,6 +34,16 @@ Below is the file structure of a Banks in India project:
         ├── public_sector_banks/
         ├── regional_rurual_banks/
         └── small_finance_banks/
+```
+
+To run locally on your machine:
+
+```bash
+git clone https://github.com/planetabhi/banks-in-india.git
+cd banks-in-india
+npm install
+npm run generate-page
+npm run dev
 ```
 
 ### Downloads
