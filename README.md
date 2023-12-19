@@ -91,7 +91,7 @@ npm run dev
 ### List of Private Sector Banks in India
 
 #### Private Sector Banks (21)
-&nbsp; | Icon | Name | Bank Code(IFSC) | Website
+&nbsp; | Icon | Name | Code (IFSC) | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_axisbank.png) | Axis Bank Ltd. | `UTIB` | [axisbank.com](https://www.axisbank.com/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_bandhanbank.png) | Bandhan Bank Ltd. | `BDBL` | [bandhanbank.com](https://www.bandhanbank.com/?ref=banksin.in)
@@ -116,13 +116,13 @@ npm run dev
 21 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_idbi.png) | IDBI Bank Limited | `IBKL` | [idbi.com](https://www.idbi.com/?ref=banksin.in)
 
 #### Local Area Banks or LAB (2)
-&nbsp; | Icon | Name | Bank Code(IFSC) | Website
+&nbsp; | Icon | Name | Code (IFSC) | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/local_area_banks/bi_coastalareabank.png) | Coastal Local Area Bank Ltd | `COAS` | [coastalareabank.com](http://www.coastalareabank.com/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/local_area_banks/bi_kbsbankindia.png) | Krishna Bhima Samruddhi LAB Ltd | `KBSX` | [kbsbankindia.com](http://www.kbsbankindia.com/?ref=banksin.in)
 
 #### Small Finance Banks or SFB (12)
-&nbsp; | Icon | Name | Bank Code(IFSC) | Website
+&nbsp; | Icon | Name | Code (IFSC) | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_aubank.png) | Au Small Finance Bank Ltd. | `AUBL` | [aubank.in](https://www.aubank.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_capitalbank.png) | Capital Small Finance Bank Ltd. | `CLBL` | [capitalbank.co.in](http://www.capitalbank.co.in/?ref=banksin.in)
@@ -138,7 +138,7 @@ npm run dev
 12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_theunitybank.png) | Unity Small Finance Bank Ltd | `UNBA` | [theunitybank.com](https://theunitybank.com/?ref=banksin.in)
 
 #### Payments Banks or PB (6)
-&nbsp; | Icon | Name | Bank Code(IFSC) | Website
+&nbsp; | Icon | Name | Code (IFSC) | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/payments_banks/bi_airtel.png) | Airtel Payments Bank Ltd | `AIRP` | [airtel.in/bank](https://www.airtel.in/bank/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/payments_banks/bi_ippbonline.png) | India Post Payments Bank Ltd | `IPOS` | [ippbonline.com](https://ippbonline.com/web/ippb/?ref=banksin.in)
@@ -152,7 +152,7 @@ npm run dev
 
 ### List of Public Sector Banks in India
 #### Public Sector Banks (12)
-&nbsp; | Icon | Name | Bank Code(IFSC) | Website
+&nbsp; | Icon | Name | Code (IFSC) | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/public_sector_banks/bi_bankofbaroda.png) | Bank of Baroda | `BARB` | [bankofbaroda.co.in](https://www.bankofbaroda.co.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/public_sector_banks/bi_bankofindia.png) | Bank of India | `BKID` | [bankofindia.co.in](https://www.bankofindia.co.in/?ref=banksin.in)
@@ -173,7 +173,7 @@ npm run dev
 
 ### List of Financial Institutions in India
 #### Financial Institutions (4)
-&nbsp; | Icon | Name | Bank Code(IFSC) | Website
+&nbsp; | Icon | Name | Code (IFSC) | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/financial_institutions/bi_nabard.png) | National Bank for Agriculture and Rural Development | `NBRD` | [nabard.org](http://www.nabard.org/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/financial_institutions/bi_eximbankindia.png) | Export-Import Bank of India | `EIBI` | [eximbankindia.in](https://www.eximbankindia.in/?ref=banksin.in)
@@ -186,7 +186,7 @@ npm run dev
 
 ### List of Regional Rural Banks in India 
 #### Regional Rural Banks or RRB (43)
-&nbsp; | Icon | Name | Bank Code(IFSC) | Website
+&nbsp; | Icon | Name | Code (IFSC) | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_agvbank.png) | Assam Gramin Vikash Bank | `AGVX` | [agvbank.co.in](http://www.agvbank.co.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_apgvbank.png) | Andhra Pradesh Grameena Vikas Bank | `APGV` | [apgvbank.in](https://www.apgvbank.in/?ref=banksin.in)
@@ -238,52 +238,52 @@ npm run dev
 
 ### List of Foreign Banks Having Banking Presence in India
 #### Foreign Banks (44)
-&nbsp; | Icon | Name | Bank Code(IFSC) | Website
+&nbsp; | Icon | Name | Code (IFSC) | Website
 :--- |:--- |:--- |:--- |---:
-1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_abbl.png) | AB Bank Ltd. | `XXXX` | [abbl.com](http://abbl.com/mumbai-branch/?ref=banksin.in)
-2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_americanexpress.png) | American Express Banking Corporation | `XXXX` | [americanexpress.com](https://www.americanexpress.com/in/?ref=banksin.in)
-3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_anz.png) | Australia and New Zealand Banking Group Ltd. | `XXXX` | [anz.com](http://www.anz.com/india/en/Corporate/?ref=banksin.in)
-4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_barclays.png) | Barclays Bank Plc. | `XXXX` | [barclays.in](https://www.barclays.in/?ref=banksin.in)
-5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bofa-india.png) | Bank of America | `XXXX` | [bofa-india.com](http://bofa-india.com/?ref=banksin.in)
-6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bbkindia.png) | Bank of Bahrain & Kuwait B.S.C. | `XXXX` | [bbkindia.com](https://www.bbkindia.com/?ref=banksin.in)
-7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bankofceylon.png) | Bank of Ceylon | `XXXX` | [bankofceylon.in](https://www.boc.lk/?ref=banksin.in)
-8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bankofchina.png) | Bank of China | `XXXX` | [bankofchina.com](https://www.bankofchina.com/in/en/aboutus/?ref=banksin.in)
-9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_scotiabank.png) | Bank of Nova Scotia | `XXXX` | [scotiabank.com](http://www.scotiabank.com/global/en/0,,6176,00.html)
-10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bnpparibas.png) | BNP Paribas | `XXXX` | [bnpparibas.co.in](http://www.bnpparibas.co.in/en/?ref=banksin.in)
-11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_citibank.png) | Citibank N.A. | `XXXX` | [citibank.co.in](https://www.citibank.co.in/?ref=banksin.in)
-12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_rabobank.png) | Cooperatieve Rabobank U.A./ Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A. | `XXXX` | [rabobank.com](https://www.rabobank.com/en/locate-us/asia-pacific/india/cooperatieve-rabobank-ua.html)
-13 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_ca-cib.png) | Credit Agricole Corporate & Investment Bank | `XXXX` | [ca-cib.com](https://www.ca-cib.com/our-global-presence/asia-pacific/india/)
-14 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_credit-suisse.png) | Credit Suisse AG | `XXXX` | [credit-suisse.com](https://www.credit-suisse.com/in/en/investment-banking-apac/investment-banking-in-india/mumbai-bank-branch.htm)
-15 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_chinatrustindia.png) | CTBC Bank Co., Ltd. | `XXXX` | [chinatrustindia.com](http://www.chinatrustindia.com/?ref=banksin.in)
-16 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_dbs.png) | DBS Bank India Limited | `XXXX` | [dbs.com](https://www.dbs.com/india/default.page/?ref=banksin.in)
-17 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_deutschebank.png) | Deutsche Bank A.G. | `XXXX` | [deutschebank.co.in](http://www.deutschebank.co.in/?ref=banksin.in)
-18 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_dohabank.png) | Doha Bank Q.P.S.C | `XXXX` | [dohabank.co.in](http://dohabank.co.in/?ref=banksin.in)
-19 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_emiratesnbd.png) | Emirates NBD Bank PJSC | `XXXX` | [emiratesnbd.co.in](https://www.emiratesnbd.co.in/?ref=banksin.in)
-20 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bankfab.png) | First Abu Dhabi Bank PJSC | `XXXX` | [bankfab.com](https://www.bankfab.com/en-in/?ref=banksin.in)
-21 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_firstrand.png) | FirstRand Bank Limited | `XXXX` | [firstrand.co.in](https://www.firstrand.co.in/?ref=banksin.in)
-22 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_hsbc.png) | Hong Kong and Shanghai Banking Corporation Limited | `XXXX` | [hsbc.co.in](https://www.hsbc.co.in/1/2/homepage/)
-23 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_icbcindia.png) | Industrial & Commercial Bank of China Ltd. | `XXXX` | [icbcindia.com](http://www.icbcindia.com/?ref=banksin.in)
-24 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_globalibk.png) | Industrial Bank of Korea | `XXXX` | [in.globalibk.com](https://in.globalibk.com/iview/03/CMIBMAN0000/?ref=banksin.in)
-25 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_jpmorgan.png) | J.P. Morgan Chase Bank N.A. | `XXXX` | [jpmorgan.com](https://www.jpmorgan.com/IN/en/about-us/?ref=banksin.in)
-26 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_vtbindia.png) | JSC VTB Bank | `XXXX` | [vtbindia.com](http://www.vtbindia.com/?ref=banksin.in)
-27 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_1qbank.png) | KEB Hana Bank | `XXXX` | [global.1qbank.com](https://global.1qbank.com/lounge/chennai/et/main.html)
-28 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_kbfg.png) | Kookmin Bank | `XXXX` | [kbfg.com](https://www.kbfg.com/Eng/about/global/asia/india.jsp/?ref=banksin.in)
-29 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_krungthai.png) | Krung Thai Bank Public Co. Ltd.[^1] | `XXXX` | [krungthai.com](https://krungthai.com/th/content/mumbai-branch/)
-30 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_mashreqbank.png) | Mashreq bank PSC | `XXXX` | [mashreqbank.com](https://www.mashreqbank.com/uae/en/international-banking/network/india/?ref=banksin.in)
-31 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_mizuhobank.png) | Mizuho Bank Ltd. | `XXXX` | [mizuhobank.com](https://www.mizuhobank.com/india/index.html)
-32 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_mufg.png) | MUFG Bank, Ltd. | `XXXX` | [bk.mufg.jp](http://www.bk.mufg.jp/global/globalnetwork/asiaoceania/mumbai.html)
-33 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_natwestmarkets.png) | NatWest Markets Plc | `XXXX` | [natwestmarkets.in](https://www.natwestmarkets.in/index.html)
-34 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_maybank.png) | PT Bank Maybank Indonesia TBK | `XXXX` | [maybank.co.in](https://www.maybank.co.in)
-35 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_qnb.png) | Qatar National Bank (Q.P.S.C.) | `XXXX` | [qnb.com](https://www.qnb.com/sites/qnb/qnbindia/page/en/en-home.html)
-36 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_sberbank.png) | Sberbank | `XXXX` | [sberbank.co.in](http://www.sberbank.co.in/?ref=banksin.in)
-37 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_sbmbank.png) | SBM Bank (India) Limited | `XXXX` | [sbmbank.co.in](https://www.sbmbank.co.in/?ref=banksin.in)
-38 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_shinhanglobal.png) | Shinhan Bank | `XXXX` | [in.shinhanglobal.com](https://in.shinhanglobal.com/?ref=banksin.in)
-39 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_societegenerale.png) | Societe Generale India | `XXXX` | [societegenerale.asia](https://www.societegenerale.asia/en/country-details/country/india-2/?ref=banksin.in)
-40 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_sonalibank.png) | Sonali Bank Ltd.[^2] | `XXXX` | [sonalibank.in](http://www.sonalibank.in/?ref=banksin.in)
-41 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_sc.png) | Standard Chartered Bank | `XXXX` | [sc.com](https://www.sc.com/in/?ref=banksin.in)
-42 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_smbc.png) | Sumitomo Mitsui Banking Corporation | `XXXX` | [smbc.co.jp](http://www.smbc.co.jp/global/india/?ref=banksin.in)
-43 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_uobgroup.png) | United Overseas Bank Limited | `XXXX` | [uobgroup.com/in](https://www.uobgroup.com/in/?ref=banksin.in)
-44 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_wooribank.png) | Woori Bank | `XXXX` | [go.wooribank.com](https://go.wooribank.com/in/ib/main/IbMain.do)
+1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_abbl.png) | AB Bank Ltd. | `ABBL` | [abbl.com](http://abbl.com/mumbai-branch/?ref=banksin.in)
+2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_americanexpress.png) | American Express Banking Corporation | `NA` | [americanexpress.com](https://www.americanexpress.com/in/?ref=banksin.in)
+3 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_anz.png) | Australia and New Zealand Banking Group Ltd. | `ANZB` | [anz.com](http://www.anz.com/india/en/Corporate/?ref=banksin.in)
+4 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_barclays.png) | Barclays Bank Plc. | `BARC` | [barclays.in](https://www.barclays.in/?ref=banksin.in)
+5 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bofa-india.png) | Bank of America | `BOFA` | [bofa-india.com](http://bofa-india.com/?ref=banksin.in)
+6 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bbkindia.png) | Bank of Bahrain & Kuwait B.S.C. | `BBKM` | [bbkindia.com](https://www.bbkindia.com/?ref=banksin.in)
+7 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bankofceylon.png) | Bank of Ceylon | `BCEY` | [bankofceylon.in](https://www.boc.lk/?ref=banksin.in)
+8 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bankofchina.png) | Bank of China | `BCHN` | [bankofchina.com](https://www.bankofchina.com/in/en/aboutus/?ref=banksin.in)
+9 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_scotiabank.png) | Bank of Nova Scotia | `NOSC` | [scotiabank.com](http://www.scotiabank.com/global/en/0,,6176,00.html)
+10 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bnpparibas.png) | BNP Paribas | `BNPA` | [bnpparibas.co.in](http://www.bnpparibas.co.in/en/?ref=banksin.in)
+11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_citibank.png) | Citibank N.A. | `CITI` | [citibank.co.in](https://www.citibank.co.in/?ref=banksin.in)
+12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_rabobank.png) | Cooperatieve Rabobank U.A./ Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A. | `RABO` | [rabobank.com](https://www.rabobank.com/en/locate-us/asia-pacific/india/cooperatieve-rabobank-ua.html)
+13 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_ca-cib.png) | Credit Agricole Corporate & Investment Bank | `CRLY` | [ca-cib.com](https://www.ca-cib.com/our-global-presence/asia-pacific/india/)
+14 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_credit-suisse.png) | Credit Suisse AG | `CRES` | [credit-suisse.com](https://www.credit-suisse.com/in/en/investment-banking-apac/investment-banking-in-india/mumbai-bank-branch.htm)
+15 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_chinatrustindia.png) | CTBC Bank Co., Ltd. | `CTCB` | [chinatrustindia.com](http://www.chinatrustindia.com/?ref=banksin.in)
+16 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_dbs.png) | DBS Bank India Limited | `DBSS` | [dbs.com](https://www.dbs.com/india/default.page/?ref=banksin.in)
+17 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_deutschebank.png) | Deutsche Bank A.G. | `DEUT` | [deutschebank.co.in](http://www.deutschebank.co.in/?ref=banksin.in)
+18 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_dohabank.png) | Doha Bank Q.P.S.C | `DOHB` | [dohabank.co.in](http://dohabank.co.in/?ref=banksin.in)
+19 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_emiratesnbd.png) | Emirates NBD Bank PJSC | `EBIL` | [emiratesnbd.co.in](https://www.emiratesnbd.co.in/?ref=banksin.in)
+20 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_bankfab.png) | First Abu Dhabi Bank PJSC | `NBAD` | [bankfab.com](https://www.bankfab.com/en-in/?ref=banksin.in)
+21 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_firstrand.png) | FirstRand Bank Limited | `FIRN` | [firstrand.co.in](https://www.firstrand.co.in/?ref=banksin.in)
+22 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_hsbc.png) | Hong Kong and Shanghai Banking Corporation Limited | `HSBC` | [hsbc.co.in](https://www.hsbc.co.in/1/2/homepage/)
+23 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_icbcindia.png) | Industrial & Commercial Bank of China Ltd. | `ICBK` | [icbcindia.com](http://www.icbcindia.com/?ref=banksin.in)
+24 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_globalibk.png) | Industrial Bank of Korea | `IBKO` | [in.globalibk.com](https://in.globalibk.com/iview/03/CMIBMAN0000/?ref=banksin.in)
+25 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_jpmorgan.png) | J.P. Morgan Chase Bank N.A. | `CHAS` | [jpmorgan.com](https://www.jpmorgan.com/IN/en/about-us/?ref=banksin.in)
+26 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_vtbindia.png) | JSC VTB Bank | `IBKL` | [vtbindia.com](http://www.vtbindia.com/?ref=banksin.in)
+27 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_1qbank.png) | KEB Hana Bank | `KOEX` | [global.1qbank.com](https://global.1qbank.com/lounge/chennai/et/main.html)
+28 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_kbfg.png) | Kookmin Bank | `KBKB` | [kbfg.com](https://www.kbfg.com/Eng/about/global/asia/india.jsp/?ref=banksin.in)
+29 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_krungthai.png) | Krung Thai Bank Public Co. Ltd.[^1] | `KRTH` | [krungthai.com](https://krungthai.com/th/content/mumbai-branch/)
+30 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_mashreqbank.png) | Mashreq bank PSC | `MSHQ` | [mashreqbank.com](https://www.mashreqbank.com/uae/en/international-banking/network/india/?ref=banksin.in)
+31 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_mizuhobank.png) | Mizuho Bank Ltd. | `MHCB` | [mizuhobank.com](https://www.mizuhobank.com/india/index.html)
+32 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_mufg.png) | MUFG Bank, Ltd. | `BOTM` | [bk.mufg.jp](http://www.bk.mufg.jp/global/globalnetwork/asiaoceania/mumbai.html)
+33 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_natwestmarkets.png) | NatWest Markets Plc | `ABNA` | [natwestmarkets.in](https://www.natwestmarkets.in/index.html)
+34 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_maybank.png) | PT Bank Maybank Indonesia TBK | `IBBK` | [maybank.co.in](https://www.maybank.co.in)
+35 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_qnb.png) | Qatar National Bank (Q.P.S.C.) | `QNBA` | [qnb.com](https://www.qnb.com/sites/qnb/qnbindia/page/en/en-home.html)
+36 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_sberbank.png) | Sberbank | `SABR` | [sberbank.co.in](http://www.sberbank.co.in/?ref=banksin.in)
+37 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_sbmbank.png) | SBM Bank (India) Limited | `STCB` | [sbmbank.co.in](https://www.sbmbank.co.in/?ref=banksin.in)
+38 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_shinhanglobal.png) | Shinhan Bank | `SHBK` | [in.shinhanglobal.com](https://in.shinhanglobal.com/?ref=banksin.in)
+39 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_societegenerale.png) | Societe Generale India | `SOGE` | [societegenerale.asia](https://www.societegenerale.asia/en/country-details/country/india-2/?ref=banksin.in)
+40 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_sonalibank.png) | Sonali Bank Ltd.[^2] | `SBLD` | [sonalibank.in](http://www.sonalibank.in/?ref=banksin.in)
+41 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_sc.png) | Standard Chartered Bank | `SCBL` | [sc.com](https://www.sc.com/in/?ref=banksin.in)
+42 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_smbc.png) | Sumitomo Mitsui Banking Corporation | `SMBC` | [smbc.co.jp](http://www.smbc.co.jp/global/india/?ref=banksin.in)
+43 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_uobgroup.png) | United Overseas Bank Limited | `UOVB` | [uobgroup.com/in](https://www.uobgroup.com/in/?ref=banksin.in)
+44 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_wooribank.png) | Woori Bank | `HVBK` | [go.wooribank.com](https://go.wooribank.com/in/ib/main/IbMain.do)
 
 <div align="right" class="toc-link">
     <a href="#banks-in-india">↑ Back to Top</a>
