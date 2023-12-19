@@ -25,6 +25,7 @@ Below is the file structure:
 └── banks-in-india/
     ├── datasets/
     │   └── banks-names.json
+    │   └── banks-in-india.fig
     └── icons/
         ├── financial_institutions/
         ├── foreign_banks/
@@ -311,4 +312,4 @@ npm run dev
 - [Blocked Banks on NACH](https://www.npci.org.in/what-we-do/nach/live-members/blocked-banks)
 
 ### About
-[[banksin.in]](https://banksin.in/) `BETA` · This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/).
+`BETA` [[banksin.in]](https://banksin.in/) · This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/).
