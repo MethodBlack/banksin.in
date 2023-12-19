@@ -1,5 +1,5 @@
 # Banks in India
-`Beta` [[banksin.in]](https://banksin.in/) A collection of websites & icons, and more for all active banks in India.
+A collection of websites & icons, and more for all active banks in India.
 
 - [Installation](#installation)
 - [Downloads](#downloads)
@@ -311,4 +311,4 @@ npm run dev
 - [Blocked Banks on NACH](https://www.npci.org.in/what-we-do/nach/live-members/blocked-banks)
 
 ### About
-This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/).
+[[banksin.in]](https://banksin.in/) `BETA` · This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/).
