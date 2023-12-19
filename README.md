@@ -312,4 +312,6 @@ npm run dev
 - [Blocked Banks on NACH](https://www.npci.org.in/what-we-do/nach/live-members/blocked-banks)
 
 ### About
-`BETA` [[banksin.in]](https://banksin.in/) · This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/).
+`BETA` [[banksin.in]](https://banksin.in/) · This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/). 
+
+[![](https://data.jsdelivr.com/v1/package/npm/banks-in-india/badge)](https://www.jsdelivr.com/package/npm/banks-in-india)
