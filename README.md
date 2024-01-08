@@ -12,20 +12,20 @@ A collection of websites & icons, and more for all active banks in India.
 - [Other Related Resources](#other-related-resources)
 
 ### Installation
+
 Install from your terminal via npm.
 
 ```bash
 npm i banks-in-india
 ```
 
-Below is the file structure:
+Below is the directory structure:
 
 ```asciidoc
 .
 └── banks-in-india/
     ├── datasets/
     │   └── banks-names.json
-    │   └── banks-in-india.fig
     └── icons/
         ├── financial_institutions/
         ├── foreign_banks/
@@ -42,7 +42,7 @@ To run locally on your machine:
 ```bash
 git clone https://github.com/planetabhi/banks-in-india.git
 cd banks-in-india
-npm install
+npm i
 npm run generate-page
 npm run dev
 ```
@@ -89,8 +89,8 @@ npm run dev
 
 ### List of Private Sector Banks in India
 
-#### Private Sector Banks (21)
-&nbsp; | Icon | Name | Code (IFSC) | Website
+##### Private Sector Banks (21)
+&nbsp; | Icon | Name | IFSC | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_axisbank.png) | Axis Bank Ltd. | `UTIB` | [axisbank.com](https://www.axisbank.com/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_bandhanbank.png) | Bandhan Bank Ltd. | `BDBL` | [bandhanbank.com](https://www.bandhanbank.com/?ref=banksin.in)
@@ -114,14 +114,14 @@ npm run dev
 20 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_yesbank.png) | YES Bank Ltd. | `YESB` | [yesbank.in](https://www.yesbank.in/?ref=banksin.in)
 21 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_idbi.png) | IDBI Bank Limited | `IBKL` | [idbi.com](https://www.idbi.com/?ref=banksin.in)
 
-#### Local Area Banks or LAB (2)
-&nbsp; | Icon | Name | Code (IFSC) | Website
+##### Local Area Banks or LAB (2)
+&nbsp; | Icon | Name | IFSC | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/local_area_banks/bi_coastalareabank.png) | Coastal Local Area Bank Ltd | `COAS` | [coastalareabank.com](http://www.coastalareabank.com/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/local_area_banks/bi_kbsbankindia.png) | Krishna Bhima Samruddhi LAB Ltd | `KBSX` | [kbsbankindia.com](http://www.kbsbankindia.com/?ref=banksin.in)
 
-#### Small Finance Banks or SFB (12)
-&nbsp; | Icon | Name | Code (IFSC) | Website
+##### Small Finance Banks or SFB (12)
+&nbsp; | Icon | Name | IFSC | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_aubank.png) | Au Small Finance Bank Ltd. | `AUBL` | [aubank.in](https://www.aubank.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_capitalbank.png) | Capital Small Finance Bank Ltd. | `CLBL` | [capitalbank.co.in](http://www.capitalbank.co.in/?ref=banksin.in)
@@ -136,8 +136,8 @@ npm run dev
 11 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_shivalikbank.png) | Shivalik Small Finance Bank Ltd | `SMCB` | [shivalikbank.com](https://shivalikbank.com/?ref=banksin.in)
 12 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_theunitybank.png) | Unity Small Finance Bank Ltd | `UNBA` | [theunitybank.com](https://theunitybank.com/?ref=banksin.in)
 
-#### Payments Banks or PB (6)
-&nbsp; | Icon | Name | Code (IFSC) | Website
+##### Payments Banks or PB (6)
+&nbsp; | Icon | Name | IFSC | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/payments_banks/bi_airtel.png) | Airtel Payments Bank Ltd | `AIRP` | [airtel.in/bank](https://www.airtel.in/bank/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/payments_banks/bi_ippbonline.png) | India Post Payments Bank Ltd | `IPOS` | [ippbonline.com](https://ippbonline.com/web/ippb/?ref=banksin.in)
@@ -150,8 +150,8 @@ npm run dev
 </div>
 
 ### List of Public Sector Banks in India
-#### Public Sector Banks (12)
-&nbsp; | Icon | Name | Code (IFSC) | Website
+##### Public Sector Banks (12)
+&nbsp; | Icon | Name | IFSC | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/public_sector_banks/bi_bankofbaroda.png) | Bank of Baroda | `BARB` | [bankofbaroda.co.in](https://www.bankofbaroda.co.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/public_sector_banks/bi_bankofindia.png) | Bank of India | `BKID` | [bankofindia.co.in](https://www.bankofindia.co.in/?ref=banksin.in)
@@ -171,8 +171,8 @@ npm run dev
 </div>
 
 ### List of Financial Institutions in India
-#### Financial Institutions (4)
-&nbsp; | Icon | Name | Code (IFSC) | Website
+##### Financial Institutions (4)
+&nbsp; | Icon | Name | IFSC | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/financial_institutions/bi_nabard.png) | National Bank for Agriculture and Rural Development | `NBRD` | [nabard.org](http://www.nabard.org/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/financial_institutions/bi_eximbankindia.png) | Export-Import Bank of India | `EIBI` | [eximbankindia.in](https://www.eximbankindia.in/?ref=banksin.in)
@@ -184,8 +184,8 @@ npm run dev
 </div>
 
 ### List of Regional Rural Banks in India 
-#### Regional Rural Banks or RRB (43)
-&nbsp; | Icon | Name | Code (IFSC) | Website
+##### Regional Rural Banks or RRB (43)
+&nbsp; | Icon | Name | IFSC | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_agvbank.png) | Assam Gramin Vikash Bank | `AGVX` | [agvbank.co.in](http://www.agvbank.co.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_apgvbank.png) | Andhra Pradesh Grameena Vikas Bank | `APGV` | [apgvbank.in](https://www.apgvbank.in/?ref=banksin.in)
@@ -236,8 +236,8 @@ npm run dev
 </div>
 
 ### List of Foreign Banks Having Banking Presence in India
-#### Foreign Banks (44)
-&nbsp; | Icon | Name | Code (IFSC) | Website
+##### Foreign Banks (44)
+&nbsp; | Icon | Name | IFSC | Website
 :--- |:--- |:--- |:--- |---:
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_abbl.png) | AB Bank Ltd. | `ABBL` | [abbl.com](http://abbl.com/mumbai-branch/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_americanexpress.png) | American Express Banking Corporation | `XXXX` | [americanexpress.com](https://www.americanexpress.com/in/?ref=banksin.in)
@@ -310,7 +310,6 @@ npm run dev
 - [Merged banks IFSC and MICR Codes](https://www.npci.org.in/PDF/npci/ifsc-and-micr-codes/Merged-banks-IFSC-and-MICR.xlsx)
 - [Blocked Banks on NACH](https://www.npci.org.in/what-we-do/nach/live-members/blocked-banks)
 
-### About
-`BETA` [[banksin.in]](https://banksin.in/) · This project is licensed under the [GNU License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://planetabhi.netlify.app/). 
 
-[![](https://data.jsdelivr.com/v1/package/npm/banks-in-india/badge)](https://www.jsdelivr.com/package/npm/banks-in-india)
+
+Licensed under the [GNU GP](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · By [@planetabhi](https://planetabhi.netlify.app/) (^０^)ノ

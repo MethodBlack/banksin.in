@@ -52,7 +52,7 @@ fs.readFile(__dirname + '/style.css', function (err, styleData) {
       });
 
       var preContent = `
-<html lang="en" data-new-ui-theme="dark--warm">
+<html lang="en" data-new-ui-theme="dark">
     <head>
       <title> Banks in India: A collection of websites & icons, and more for all active banks in India.</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
