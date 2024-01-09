@@ -54,7 +54,19 @@ fs.readFile(__dirname + '/style.css', function (err, styleData) {
       var preContent = `
 <html lang="en" data-new-ui-theme="dark">
     <head>
-      <title> Banks in India: A collection of websites & icons, and more for all active banks in India.</title>
+      <meta charset="utf-8">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+      <meta content="ie=edge" http-equiv="x-ua-compatible">
+      <meta name="handheldfriendly" content="true">
+      <meta name="viewport" content="initial-scale=1, width=device-width">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Libre+Franklin:wght@400;700&display=swap" rel="stylesheet">
+      <meta name="description" content="Banks in India: A collection of websites & icons, and more for all active banks in India.">
+      <title>Banks in India: A collection of websites & icons, and more for all active banks in India.</title>
+      <meta property="og:site_name" content="Banks in India">
+      <meta property="og:title" content="Banks in India">
+      <meta property="og:description" content="Banks in India: A collection of websites & icons, and more for all active banks in India.">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="keywords" content="banks, india, list, icons, logos, websites">
       <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/npm/banks-in-india@0.1.3/icons/bi_placeholder.png">

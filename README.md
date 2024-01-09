@@ -37,16 +37,6 @@ Below is the directory structure:
         └── small_finance_banks/
 ```
 
-To run locally on your machine:
-
-```bash
-git clone https://github.com/planetabhi/banks-in-india.git
-cd banks-in-india
-npm i
-npm run generate-page
-npm run dev
-```
-
 ### Downloads
 - [Download Icons & Datasets](https://github.com/planetabhi/banks-in-india/archive/HEAD.zip)
 
@@ -312,4 +302,6 @@ npm run dev
 
 ---
 
-Licensed under the [GNU GP](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · By [@planetabhi](https://planetabhi.netlify.app/) (^０^)ノ
+Licensed under the [GNU General Public License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Experiment by [@planetabhi](https://planetabhi.netlify.app/) (^０^)ノ
+
+[![](https://data.jsdelivr.com/v1/package/npm/banks-in-india/badge)](https://www.jsdelivr.com/package/npm/banks-in-india)
