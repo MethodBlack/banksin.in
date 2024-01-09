@@ -310,6 +310,6 @@ npm run dev
 - [Merged banks IFSC and MICR Codes](https://www.npci.org.in/PDF/npci/ifsc-and-micr-codes/Merged-banks-IFSC-and-MICR.xlsx)
 - [Blocked Banks on NACH](https://www.npci.org.in/what-we-do/nach/live-members/blocked-banks)
 
-
+---
 
 Licensed under the [GNU GP](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · By [@planetabhi](https://planetabhi.netlify.app/) (^０^)ノ

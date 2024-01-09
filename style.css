@@ -38,7 +38,7 @@ body>#content {
     padding-bottom: var(--spacing-08);
 }
 
-#content>*+* { margin-bottom:var(--spacing-08, 1.5em); }
+#content>*+* { margin-bottom:var(--spacing-07); }
 
 h1 { font-size: var(--desktop-heading-01); line-height: var(--lh-desktop-heading-01); letter-spacing: var(--desktop-tracking-heading-01);}
 h2 { font-size: var(--desktop-heading-02); line-height: var(--lh-desktop-heading-02); letter-spacing: var(--desktop-tracking-heading-02);}
@@ -58,12 +58,12 @@ li {
     padding-inline-start: 1ch;
 }
 
-h1, h2 {
-    margin-top: var(--spacing-12);
+h1, h2, h3 {
+    margin-top: var(--spacing-10);
     color: var(--text-primary);
 }
 
-h3, h4 {
+h4 {
     margin-top: var(--spacing-08);
     color: var(--text-primary);
 }
