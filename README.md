@@ -38,7 +38,8 @@ Below is the directory structure:
 ```
 
 ### Downloads
-- [Download Icons & Datasets](https://github.com/planetabhi/banks-in-india/archive/HEAD.zip)
+- [Download datasets](https://github.com/planetabhi/banks-in-india/archive/HEAD.zip)
+- [Buy Figma icon library](https://methodblack.gumroad.com/l/banks-in-india)
 
 ### Banking Structure
 
