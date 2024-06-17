@@ -303,6 +303,6 @@ Below is the directory structure:
 
 ---
 
-Licensed under the [GNU General Public License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Experiment by [@planetabhi](https://planetabhi.netlify.app/) (^０^)ノ
+Licensed under the [GNU General Public License](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE) · Experiment by [@planetabhi](https://planetabhi.com/) (^０^)ノ
 
 [![](https://data.jsdelivr.com/v1/package/npm/banks-in-india/badge)](https://www.jsdelivr.com/package/npm/banks-in-india)

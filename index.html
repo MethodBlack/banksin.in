@@ -1265,7 +1265,7 @@
 <li><a href="https://www.npci.org.in/what-we-do/nach/live-members/blocked-banks">Blocked Banks on NACH</a></li>
 </ul>
 <hr />
-<p>Licensed under the <a href="https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE">GNU General Public License</a> · Experiment by <a href="https://planetabhi.netlify.app/">@planetabhi</a> (^０^)ノ</p>
+<p>Licensed under the <a href="https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/LICENSE">GNU General Public License</a> · Experiment by <a href="https://planetabhi.com/">@planetabhi</a> (^０^)ノ</p>
 <p><a href="https://www.jsdelivr.com/package/npm/banks-in-india"><img src="https://data.jsdelivr.com/v1/package/npm/banks-in-india/badge" alt="" /></a></p>
 
           </div>
@@ -1281,8 +1281,8 @@
 body {
     background-color: var(--background);
     color: var(--text-primary);
-    font-family: var(--system-ui);
-    margin: 0;
+    font-family: var(--neo-grotesque);
+    margin: var(--spacing-07);
     padding: 0;
     font-size: var(--desktop-body);
     line-height: var(--lh-desktop-body);
@@ -1304,11 +1304,11 @@ body>#content {
 
 #content>*+* { margin-bottom:var(--spacing-07); }
 
-h1 { font-size: var(--desktop-heading-01); line-height: var(--lh-desktop-heading-01); letter-spacing: var(--desktop-tracking-heading-01);}
-h2 { font-size: var(--desktop-heading-02); line-height: var(--lh-desktop-heading-02); letter-spacing: var(--desktop-tracking-heading-02);}
-h3 { font-size: var(--desktop-heading-03); line-height: var(--lh-desktop-heading-03); letter-spacing: var(--desktop-tracking-heading-03);}
+h1 { font-size: var(--desktop-heading-01); line-height: var(--lh-desktop-heading-01); letter-spacing: var(--desktop-tracking-heading-01); font-family: var(--antique); font-weight: 100;}
+h2 { font-size: var(--desktop-heading-02); line-height: var(--lh-desktop-heading-02); letter-spacing: var(--desktop-tracking-heading-02); font-family: var(--antique); font-weight: 100;}
+h3 { font-size: var(--desktop-heading-03); line-height: var(--lh-desktop-heading-03); letter-spacing: var(--desktop-tracking-heading-03); font-family: var(--antique); font-weight: 100;}
 h4 { font-size: var(--desktop-heading-04); line-height: var(--lh-desktop-heading-04);}
-h5 { font-size: var(--desktop-heading-05); line-height: var(--lh-desktop-heading-05);}
+h5 { font-size: var(--desktop-heading-05); line-height: var(--lh-desktop-heading-05); font-family: var(--handwritten); font-weight: 100;}
 h6 { font-size: var(--desktop-heading-06); line-height: var(--lh-desktop-heading-06);}
 code { font-size: var(--desktop-code); line-height: var(--lh-desktop-code);}
 
@@ -1356,7 +1356,7 @@ a:hover {
 }
 
 pre {
-    background-color: var(--background-secondary);
+    background-color: var(--background-high-contrast);
     line-height: 1.45;
     overflow: auto;
     padding: var(--spacing-06);
@@ -1459,6 +1459,8 @@ th {
     background-color: var(--background-secondary);
     border-bottom: 2px solid var(--border-strong);
     border-top: 2px solid var(--border-strong);
+    font-size: var(--desktop-caption);
+    text-transform: uppercase;
 }
 
 tr {
