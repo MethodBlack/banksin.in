@@ -98,6 +98,7 @@ fs.readFile(__dirname + '/style.css', function (err, styleData) {
           </div>
           <style type='text/css'>` + styleData + `</style>
           <style type='text/css'>` + highlightingStyles + `</style>
+          
         </body>
       </html>`;
 
