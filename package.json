@@ -36,7 +36,7 @@
     }
   },
   "optionalDependencies": {
-    "@rollup/rollup-linux-x64-gnu": "4.18.0"
+    "@rollup/rollup-linux-x64-gnu": "4.18.1"
   },
   "author": "Abhimanyu Rana <contact@new-ui.com> (https://planetabhi.netlify.app/)",
   "license": "GPL-3.0",
@@ -50,10 +50,10 @@
     "@new-ui/typography": "^0.1.6",
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.4.5",
-    "highlight.js": "^11.9.0",
+    "highlight.js": "^11.10.0",
     "move-file-cli": "^3.0.0",
     "npm-run-all": "^4.1.5",
-    "rimraf": "^5.0.7",
+    "rimraf": "^6.0.1",
     "showdown": "^2.1.0",
     "vite": "^5.3.3"
   }

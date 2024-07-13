@@ -51,7 +51,7 @@ A collection of websites & icons, and more for all active banks in India.
 ### List of Private Sector Banks in India
 
 ##### Private Sector Banks (21)
-&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 :--- |:--- |:--- |:---
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_axisbank.png) | `UTIB` | [Axis Bank Ltd.](https://www.axisbank.com/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/private_sector_banks/bi_bandhanbank.png) | `BDBL` | [Bandhan Bank Ltd.](https://www.bandhanbank.com/?ref=banksin.in)
@@ -77,14 +77,14 @@ A collection of websites & icons, and more for all active banks in India.
 
 
 ##### Local Area Banks or LAB (2)
-&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 :--- |:--- |:--- |:---
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/local_area_banks/bi_coastalareabank.png) | `COAS` | [Coastal Local Area Bank Ltd.](http://www.coastalareabank.com/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/local_area_banks/bi_kbsbankindia.png) | `KBSX` | [Krishna Bhima Samruddhi LAB Ltd.](http://www.kbsbankindia.com/?ref=banksin.in)
 
 
 ##### Small Finance Banks or SFB (12)
-&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 :--- |:--- |:--- |:---
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_aubank.png) | `AUBL` | [Au Small Finance Bank Ltd.](https://www.aubank.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/small_finance_banks/bi_capitalbank.png) | `CLBL` | [Capital Small Finance Bank Ltd.](http://www.capitalbank.co.in/?ref=banksin.in)
@@ -101,7 +101,7 @@ A collection of websites & icons, and more for all active banks in India.
 
 
 ##### Payments Banks or PB (6)
-&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 :--- |:--- |:--- |:---
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/payments_banks/bi_airtel.png) | `AIRP` | [Airtel Payments Bank Ltd.](https://www.airtel.in/bank/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/payments_banks/bi_ippbonline.png) | `IPOS` | [India Post Payments Bank Ltd.](https://ippbonline.com/web/ippb/?ref=banksin.in)
@@ -116,7 +116,7 @@ A collection of websites & icons, and more for all active banks in India.
 
 ### List of Public Sector Banks in India
 ##### Public Sector Banks (12)
-&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 :--- |:--- |:--- |:---
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/public_sector_banks/bi_bankofbaroda.png) | `BARB` | [Bank of Baroda](https://www.bankofbaroda.co.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/public_sector_banks/bi_bankofindia.png) | `BKID` | [Bank of India](https://www.bankofindia.co.in/?ref=banksin.in)
@@ -137,7 +137,7 @@ A collection of websites & icons, and more for all active banks in India.
 
 ### List of Financial Institutions in India
 ##### Financial Institutions (4)
-&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 :--- |:--- |:--- |:---
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/financial_institutions/bi_nabard.png) | `NBRD` | [National Bank for Agriculture and Rural Development](http://www.nabard.org/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/financial_institutions/bi_eximbankindia.png) | `EIBI` | [Export-Import Bank of India](https://www.eximbankindia.in/?ref=banksin.in)
@@ -150,7 +150,7 @@ A collection of websites & icons, and more for all active banks in India.
 
 ### List of Regional Rural Banks in India 
 ##### Regional Rural Banks or RRB (43)
-&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 :--- |:--- |:--- |:---
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_agvbank.png) | `AGVX` | [Assam Gramin Vikash Bank](http://www.agvbank.co.in/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/regional_rural_banks/bi_apgvbank.png) | `APGV` | [Andhra Pradesh Grameena Vikas Bank](https://www.apgvbank.in/?ref=banksin.in)
@@ -202,7 +202,7 @@ A collection of websites & icons, and more for all active banks in India.
 
 ### List of Foreign Banks Having Banking Presence in India
 ##### Foreign Banks (44)
-&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; | Icon | IFSC | Name of the Bank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 :--- |:--- |:--- |:---
 1 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_abbl.png) | `ABBL` | [AB Bank Ltd.](http://abbl.com/mumbai-branch/?ref=banksin.in)
 2 | ![](https://cdn.jsdelivr.net/npm/banks-in-india@0.1.5/icons/foreign_banks/bi_americanexpress.png) | `XXXX` | [American Express Banking Corporation](https://www.americanexpress.com/in/?ref=banksin.in)
