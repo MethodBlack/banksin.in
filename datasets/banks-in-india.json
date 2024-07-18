@@ -131,6 +131,24 @@
           "website": "https://www.idbi.com/"
         }
       ]
+    },
+    {
+      "title": "Local Area Banks",
+      "category": "lab",
+      "content": [
+        {
+          "title": "Coastal Local Area Bank Ltd.",
+          "IFSC": "COAS",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/local_area_banks/bi_coastalareabank.png",
+          "website": "http://www.coastalareabank.com/"
+        },
+        {
+          "title": "Krishna Bhima Samruddhi LAB Ltd.",
+          "IFSC": "KBSX",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/local_area_banks/bi_kbsbankindia.png",
+          "website": "http://www.kbsbankindia.com/"
+        }
+      ]
     }
   ]
 }
