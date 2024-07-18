@@ -347,6 +347,36 @@
           "website": "https://www.unionbankonline.co.in/"
         }
       ]
+    },
+    {
+      "title": "Financial Institutions",
+      "category": "financial_institutions",
+      "content": [
+        {
+          "name": "National Bank for Agriculture and Rural Development",
+          "ifsc": "NBRD",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/financial_institutions/bi_nabard.png",
+          "website": "http://www.nabard.org/"
+        },
+        {
+          "name": "Export-Import Bank of India",
+          "ifsc": "EIBI",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/financial_institutions/bi_eximbankindia.png",
+          "website": "https://www.eximbankindia.in/"
+        },
+        {
+          "name": "National Housing Bank",
+          "ifsc": "HDFC",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/financial_institutions/bi_nabard.png",
+          "website": "https://nhb.org.in/"
+        },
+        {
+          "name": "Small Industries Development Bank of India",
+          "ifsc": "SIDB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/financial_institutions/bi_sidbi.png",
+          "website": "https://www.sidbi.in/"
+        }
+      ]
     }
   ]
 }
