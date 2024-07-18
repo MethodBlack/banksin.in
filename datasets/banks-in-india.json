@@ -269,6 +269,84 @@
           "website": "https://nsdlbank.com/"
         }
       ]
+    },
+    {
+      "title": "",
+      "category": "",
+      "content": [
+        {
+          "name": "Bank of Baroda",
+          "ifsc": "BARB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_bankofbaroda.png",
+          "website": "https://www.bankofbaroda.co.in/"
+        },
+        {
+          "name": "Bank of India",
+          "ifsc": "BKID",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_bankofindia.png",
+          "website": "https://www.bankofindia.co.in/"
+        },
+        {
+          "name": "Bank of Maharashtra",
+          "ifsc": "MAHB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_bankofmaharashtra.png",
+          "website": "https://www.bankofmaharashtra.in/"
+        },
+        {
+          "name": "Canara Bank",
+          "ifsc": "CNRB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_canarabank.png",
+          "website": "https://www.canarabank.com/"
+        },
+        {
+          "name": "Central Bank of India",
+          "ifsc": "CBIN",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_centralbankofindia.png",
+          "website": "https://www.centralbankofindia.co.in/"
+        },
+        {
+          "name": "Indian Bank",
+          "ifsc": "IDIB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_indianbank.png",
+          "website": "http://www.indianbank.in/"
+        },
+        {
+          "name": "Indian Overseas Bank",
+          "ifsc": "IOBA",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_iob.png",
+          "website": "https://www.iob.in/"
+        },
+        {
+          "name": "Punjab & Sind Bank",
+          "ifsc": "PSIB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_punjabandsindbank.png",
+          "website": "https://punjabandsindbank.co.in/"
+        },
+        {
+          "name": "Punjab National Bank",
+          "ifsc": "PUNB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_pnbindia.png",
+          "website": "https://www.pnbindia.in/"
+        },
+        {
+          "name": "State Bank of India",
+          "ifsc": "SBIN",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_sbi.png",
+          "website": "https://www.sbi.co.in/"
+        },
+        {
+          "name": "UCO Bank",
+          "ifsc": "UCBA",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_ucobank.png",
+          "website": "https://www.ucobank.com/"
+        },
+        {
+          "name": "Union Bank of India",
+          "ifsc": "UBIN",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/public_sector_banks/bi_unionbankonline.png",
+          "website": "https://www.unionbankonline.co.in/"
+        }
+      ]
     }
   ]
 }
