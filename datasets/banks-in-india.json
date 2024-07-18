@@ -149,6 +149,84 @@
           "website": "http://www.kbsbankindia.com/"
         }
       ]
+    },
+    {
+      "title": "Small Finance Banks",
+      "category": "sfb",
+      "content": [
+        {
+          "title": "Au Small Finance Bank Ltd.",
+          "IFSC": "AUBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_aubank.png",
+          "website": "https://www.aubank.in/"
+        },
+        {
+          "title": "Capital Small Finance Bank Ltd.",
+          "IFSC": "CLBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_capitalbank.png",
+          "website": "http://www.capitalbank.co.in/"
+        },
+        {
+          "title": "Fincare Small Finance Bank Ltd.",
+          "IFSC": "FSFB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_fincarebank.png",
+          "website": "http://fincarebank.com/"
+        },
+        {
+          "title": "Equitas Small Finance Bank Ltd.",
+          "IFSC": "ESFB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_equitasbank.png",
+          "website": "https://www.equitasbank.com/"
+        },
+        {
+          "title": "ESAF Small Finance Bank Ltd.",
+          "IFSC": "ESMF",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_esafbank.png",
+          "website": "https://www.esafbank.com/"
+        },
+        {
+          "title": "Suryoday Small Finance Bank Ltd.",
+          "IFSC": "SURY",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_suryodaybank.png",
+          "website": "https://www.suryodaybank.com/"
+        },
+        {
+          "title": "Ujjivan Small Finance Bank Ltd.",
+          "IFSC": "UJVN",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_ujjivansfb.png",
+          "website": "https://www.ujjivansfb.in/"
+        },
+        {
+          "title": "Utkarsh Small Finance Bank Ltd.",
+          "IFSC": "UTKS",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_utkarsh.png",
+          "website": "https://www.utkarsh.bank/"
+        },
+        {
+          "title": "North East Small Finance Bank Ltd.",
+          "IFSC": "NESF",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_nesfb.png",
+          "website": "https://nesfb.com/"
+        },
+        {
+          "title": "Jana Small Finance Bank Ltd.",
+          "IFSC": "JSFB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_janabank.png",
+          "website": "https://www.janabank.com/"
+        },
+        {
+          "title": "Shivalik Small Finance Bank Ltd.",
+          "IFSC": "SMCB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_shivalikbank.png",
+          "website": "https://shivalikbank.com/"
+        },
+        {
+          "title": "Unity Small Finance Bank Ltd.",
+          "IFSC": "UNBA",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_theunitybank.png",
+          "website": "https://theunitybank.com/"
+        }
+      ]
     }
   ]
 }
