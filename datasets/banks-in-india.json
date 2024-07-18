@@ -1,0 +1,136 @@
+{
+  "banks": [
+    {
+      "title": "Private Sector Banks",
+      "category": "private_sector_banks",
+      "content": [
+        {
+          "title": "Axis Bank Ltd.",
+          "IFSC": "UTIB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_axisbank.png",
+          "website": "https://www.axisbank.com/"
+        },
+        {
+          "title": "Bandhan Bank Ltd.",
+          "IFSC": "BDBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_bandhanbank.png",
+          "website": "https://www.bandhanbank.com/"
+        },
+        {
+          "title": "CSB Bank Limited",
+          "IFSC": "CSBK",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_csb.png",
+          "website": "http://www.csb.co.in/"
+        },
+        {
+          "title": "City Union Bank Ltd.",
+          "IFSC": "CIUB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_cityunionbank.png",
+          "website": "https://www.cityunionbank.com/"
+        },
+        {
+          "title": "DCB Bank Ltd.",
+          "IFSC": "DCBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_dcbbank.png",
+          "website": "https://www.dcbbank.com/"
+        },
+        {
+          "title": "Dhanlaxmi Bank Ltd.",
+          "IFSC": "DLXB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_dhanbank.png",
+          "website": "https://www.dhanbank.com/"
+        },
+        {
+          "title": "Federal Bank Ltd.",
+          "IFSC": "FDRL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_federalbank.png",
+          "website": "https://www.federalbank.co.in/"
+        },
+        {
+          "title": "HDFC Bank Ltd.",
+          "IFSC": "HDFC",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_hdfcbank.png",
+          "website": "https://www.hdfcbank.com/"
+        },
+        {
+          "title": "ICICI Bank Ltd.",
+          "IFSC": "ICIC",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_icicibank.png",
+          "website": "https://www.icicibank.com/"
+        },
+        {
+          "title": "IndusInd Bank Ltd.",
+          "IFSC": "INDB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_indusind.png",
+          "website": "https://www.indusind.com/"
+        },
+        {
+          "title": "IDFC FIRST Bank Limited",
+          "IFSC": "IDFB",
+          "icon": "https://www.idfcbank.com/",
+          "website": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_idfcbank.png"
+        },
+        {
+          "title": "Jammu & Kashmir Bank Ltd.",
+          "IFSC": "JAKA",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_jkbank.png",
+          "website": "https://www.jkbank.com/"
+        },
+        {
+          "title": "Karnataka Bank Ltd.",
+          "IFSC": "KARB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_karnatakabank.png",
+          "website": "https://karnatakabank.com/"
+        },
+        {
+          "title": "Karur Vysya Bank Ltd.",
+          "IFSC": "KVBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_kvb.png",
+          "website": "http://www.kvb.co.in/"
+        },
+        {
+          "title": "Kotak Mahindra Bank Ltd.",
+          "IFSC": "KKBK",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_kotak.png",
+          "website": "https://www.kotak.com/"
+        },
+        {
+          "title": "Nainital Bank Ltd.",
+          "IFSC": "NTBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_nainitalbank.png",
+          "website": "http://www.nainitalbank.co.in/"
+        },
+        {
+          "title": "RBL Bank Ltd.",
+          "IFSC": "RATN",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_rblbank.png",
+          "website": "https://www.rblbank.com/"
+        },
+        {
+          "title": "South Indian Bank Ltd.",
+          "IFSC": "SIBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_southindianbank.png",
+          "website": "https://www.southindianbank.com/"
+        },
+        {
+          "title": "Tamilnad Mercantile Bank Ltd.",
+          "IFSC": "TMBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_tmb.png",
+          "website": "http://www.tmb.in/"
+        },
+        {
+          "title": "YES Bank Ltd.",
+          "IFSC": "YESB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_yesbank.png",
+          "website": "https://www.yesbank.in/"
+        },
+        {
+          "title": "IDBI Bank Limited",
+          "IFSC": "IBKL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_idbi.png",
+          "website": "https://www.idbi.com/"
+        }
+      ]
+    }
+  ]
+}
