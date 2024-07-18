@@ -5,128 +5,128 @@
       "category": "private_sector_banks",
       "content": [
         {
-          "title": "Axis Bank Ltd.",
-          "IFSC": "UTIB",
+          "name": "Axis Bank Ltd.",
+          "ifsc": "UTIB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_axisbank.png",
           "website": "https://www.axisbank.com/"
         },
         {
-          "title": "Bandhan Bank Ltd.",
-          "IFSC": "BDBL",
+          "name": "Bandhan Bank Ltd.",
+          "ifsc": "BDBL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_bandhanbank.png",
           "website": "https://www.bandhanbank.com/"
         },
         {
-          "title": "CSB Bank Limited",
-          "IFSC": "CSBK",
+          "name": "CSB Bank Limited",
+          "ifsc": "CSBK",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_csb.png",
           "website": "http://www.csb.co.in/"
         },
         {
-          "title": "City Union Bank Ltd.",
-          "IFSC": "CIUB",
+          "name": "City Union Bank Ltd.",
+          "ifsc": "CIUB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_cityunionbank.png",
           "website": "https://www.cityunionbank.com/"
         },
         {
-          "title": "DCB Bank Ltd.",
-          "IFSC": "DCBL",
+          "name": "DCB Bank Ltd.",
+          "ifsc": "DCBL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_dcbbank.png",
           "website": "https://www.dcbbank.com/"
         },
         {
-          "title": "Dhanlaxmi Bank Ltd.",
-          "IFSC": "DLXB",
+          "name": "Dhanlaxmi Bank Ltd.",
+          "ifsc": "DLXB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_dhanbank.png",
           "website": "https://www.dhanbank.com/"
         },
         {
-          "title": "Federal Bank Ltd.",
-          "IFSC": "FDRL",
+          "name": "Federal Bank Ltd.",
+          "ifsc": "FDRL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_federalbank.png",
           "website": "https://www.federalbank.co.in/"
         },
         {
-          "title": "HDFC Bank Ltd.",
-          "IFSC": "HDFC",
+          "name": "HDFC Bank Ltd.",
+          "ifsc": "HDFC",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_hdfcbank.png",
           "website": "https://www.hdfcbank.com/"
         },
         {
-          "title": "ICICI Bank Ltd.",
-          "IFSC": "ICIC",
+          "name": "ICICI Bank Ltd.",
+          "ifsc": "ICIC",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_icicibank.png",
           "website": "https://www.icicibank.com/"
         },
         {
-          "title": "IndusInd Bank Ltd.",
-          "IFSC": "INDB",
+          "name": "IndusInd Bank Ltd.",
+          "ifsc": "INDB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_indusind.png",
           "website": "https://www.indusind.com/"
         },
         {
-          "title": "IDFC FIRST Bank Limited",
-          "IFSC": "IDFB",
+          "name": "IDFC FIRST Bank Limited",
+          "ifsc": "IDFB",
           "icon": "https://www.idfcbank.com/",
           "website": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_idfcbank.png"
         },
         {
-          "title": "Jammu & Kashmir Bank Ltd.",
-          "IFSC": "JAKA",
+          "name": "Jammu & Kashmir Bank Ltd.",
+          "ifsc": "JAKA",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_jkbank.png",
           "website": "https://www.jkbank.com/"
         },
         {
-          "title": "Karnataka Bank Ltd.",
-          "IFSC": "KARB",
+          "name": "Karnataka Bank Ltd.",
+          "ifsc": "KARB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_karnatakabank.png",
           "website": "https://karnatakabank.com/"
         },
         {
-          "title": "Karur Vysya Bank Ltd.",
-          "IFSC": "KVBL",
+          "name": "Karur Vysya Bank Ltd.",
+          "ifsc": "KVBL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_kvb.png",
           "website": "http://www.kvb.co.in/"
         },
         {
-          "title": "Kotak Mahindra Bank Ltd.",
-          "IFSC": "KKBK",
+          "name": "Kotak Mahindra Bank Ltd.",
+          "ifsc": "KKBK",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_kotak.png",
           "website": "https://www.kotak.com/"
         },
         {
-          "title": "Nainital Bank Ltd.",
-          "IFSC": "NTBL",
+          "name": "Nainital Bank Ltd.",
+          "ifsc": "NTBL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_nainitalbank.png",
           "website": "http://www.nainitalbank.co.in/"
         },
         {
-          "title": "RBL Bank Ltd.",
-          "IFSC": "RATN",
+          "name": "RBL Bank Ltd.",
+          "ifsc": "RATN",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_rblbank.png",
           "website": "https://www.rblbank.com/"
         },
         {
-          "title": "South Indian Bank Ltd.",
-          "IFSC": "SIBL",
+          "name": "South Indian Bank Ltd.",
+          "ifsc": "SIBL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_southindianbank.png",
           "website": "https://www.southindianbank.com/"
         },
         {
-          "title": "Tamilnad Mercantile Bank Ltd.",
-          "IFSC": "TMBL",
+          "name": "Tamilnad Mercantile Bank Ltd.",
+          "ifsc": "TMBL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_tmb.png",
           "website": "http://www.tmb.in/"
         },
         {
-          "title": "YES Bank Ltd.",
-          "IFSC": "YESB",
+          "name": "YES Bank Ltd.",
+          "ifsc": "YESB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_yesbank.png",
           "website": "https://www.yesbank.in/"
         },
         {
-          "title": "IDBI Bank Limited",
-          "IFSC": "IBKL",
+          "name": "IDBI Bank Limited",
+          "ifsc": "IBKL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/private_sector_banks/bi_idbi.png",
           "website": "https://www.idbi.com/"
         }
@@ -137,14 +137,14 @@
       "category": "lab",
       "content": [
         {
-          "title": "Coastal Local Area Bank Ltd.",
-          "IFSC": "COAS",
+          "name": "Coastal Local Area Bank Ltd.",
+          "ifsc": "COAS",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/local_area_banks/bi_coastalareabank.png",
           "website": "http://www.coastalareabank.com/"
         },
         {
-          "title": "Krishna Bhima Samruddhi LAB Ltd.",
-          "IFSC": "KBSX",
+          "name": "Krishna Bhima Samruddhi LAB Ltd.",
+          "ifsc": "KBSX",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/local_area_banks/bi_kbsbankindia.png",
           "website": "http://www.kbsbankindia.com/"
         }
@@ -155,74 +155,74 @@
       "category": "sfb",
       "content": [
         {
-          "title": "Au Small Finance Bank Ltd.",
-          "IFSC": "AUBL",
+          "name": "Au Small Finance Bank Ltd.",
+          "ifsc": "AUBL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_aubank.png",
           "website": "https://www.aubank.in/"
         },
         {
-          "title": "Capital Small Finance Bank Ltd.",
-          "IFSC": "CLBL",
+          "name": "Capital Small Finance Bank Ltd.",
+          "ifsc": "CLBL",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_capitalbank.png",
           "website": "http://www.capitalbank.co.in/"
         },
         {
-          "title": "Fincare Small Finance Bank Ltd.",
-          "IFSC": "FSFB",
+          "name": "Fincare Small Finance Bank Ltd.",
+          "ifsc": "FSFB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_fincarebank.png",
           "website": "http://fincarebank.com/"
         },
         {
-          "title": "Equitas Small Finance Bank Ltd.",
-          "IFSC": "ESFB",
+          "name": "Equitas Small Finance Bank Ltd.",
+          "ifsc": "ESFB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_equitasbank.png",
           "website": "https://www.equitasbank.com/"
         },
         {
-          "title": "ESAF Small Finance Bank Ltd.",
-          "IFSC": "ESMF",
+          "name": "ESAF Small Finance Bank Ltd.",
+          "ifsc": "ESMF",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_esafbank.png",
           "website": "https://www.esafbank.com/"
         },
         {
-          "title": "Suryoday Small Finance Bank Ltd.",
-          "IFSC": "SURY",
+          "name": "Suryoday Small Finance Bank Ltd.",
+          "ifsc": "SURY",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_suryodaybank.png",
           "website": "https://www.suryodaybank.com/"
         },
         {
-          "title": "Ujjivan Small Finance Bank Ltd.",
-          "IFSC": "UJVN",
+          "name": "Ujjivan Small Finance Bank Ltd.",
+          "ifsc": "UJVN",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_ujjivansfb.png",
           "website": "https://www.ujjivansfb.in/"
         },
         {
-          "title": "Utkarsh Small Finance Bank Ltd.",
-          "IFSC": "UTKS",
+          "name": "Utkarsh Small Finance Bank Ltd.",
+          "ifsc": "UTKS",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_utkarsh.png",
           "website": "https://www.utkarsh.bank/"
         },
         {
-          "title": "North East Small Finance Bank Ltd.",
-          "IFSC": "NESF",
+          "name": "North East Small Finance Bank Ltd.",
+          "ifsc": "NESF",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_nesfb.png",
           "website": "https://nesfb.com/"
         },
         {
-          "title": "Jana Small Finance Bank Ltd.",
-          "IFSC": "JSFB",
+          "name": "Jana Small Finance Bank Ltd.",
+          "ifsc": "JSFB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_janabank.png",
           "website": "https://www.janabank.com/"
         },
         {
-          "title": "Shivalik Small Finance Bank Ltd.",
-          "IFSC": "SMCB",
+          "name": "Shivalik Small Finance Bank Ltd.",
+          "ifsc": "SMCB",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_shivalikbank.png",
           "website": "https://shivalikbank.com/"
         },
         {
-          "title": "Unity Small Finance Bank Ltd.",
-          "IFSC": "UNBA",
+          "name": "Unity Small Finance Bank Ltd.",
+          "ifsc": "UNBA",
           "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/small_finance_banks/bi_theunitybank.png",
           "website": "https://theunitybank.com/"
         }
