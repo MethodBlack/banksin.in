@@ -227,6 +227,48 @@
           "website": "https://theunitybank.com/"
         }
       ]
+    },
+    {
+      "title": "Payments Banks",
+      "category": "pb",
+      "content": [
+        {
+          "name": "Airtel Payments Bank Ltd.",
+          "ifsc": "AIRP",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/payments_banks/bi_airtel.png",
+          "website": "https://www.airtel.in/bank/"
+        },
+        {
+          "name": "India Post Payments Bank Ltd.",
+          "ifsc": "IPOS",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/payments_banks/bi_ippbonline.png",
+          "website": "https://ippbonline.com/web/ippb/"
+        },
+        {
+          "name": "FINO Payments Bank Ltd.",
+          "ifsc": "FINO",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/payments_banks/bi_finobank.png",
+          "website": "https://www.finobank.com/"
+        },
+        {
+          "name": "Paytm Payments Bank Ltd.",
+          "ifsc": "PYTM",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/payments_banks/bi_paytmbank.png",
+          "website": "http://www.paytmbank.com/"
+        },
+        {
+          "name": "Jio Payments Bank Ltd.",
+          "ifsc": "JIOP",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/payments_banks/bi_jiopaymentsbank.png",
+          "website": "https://www.jiopaymentsbank.com/"
+        },
+        {
+          "name": "NSDL Payments Bank Limited",
+          "ifsc": "NSPB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/payments_banks/bi_nsdlbank.png",
+          "website": "https://nsdlbank.com/"
+        }
+      ]
     }
   ]
 }
