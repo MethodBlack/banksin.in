@@ -641,6 +641,276 @@
           "website": "http://www.uttarakhandgraminbank.com/"
         }
       ]
+    },
+    {
+      "title": "Foreign Banks",
+      "category": "foreign_banks",
+      "content": [
+        {
+          "name": "AB Bank Ltd.",
+          "ifsc": "ABBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_abbl.png",
+          "website": "http://abbl.com/mumbai-branch/"
+        },
+        {
+          "name": "American Express Banking Corporation",
+          "ifsc": "XXXX",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_americanexpress.png",
+          "website": "https://www.americanexpress.com/in/"
+        },
+        {
+          "name": "Australia and New Zealand Banking Group Ltd.",
+          "ifsc": "ANZB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_anz.png",
+          "website": "http://www.anz.com/india/en/Corporate/"
+        },
+        {
+          "name": "Barclays Bank Plc.",
+          "ifsc": "BARC",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_barclays.png",
+          "website": "https://www.barclays.in/"
+        },
+        {
+          "name": "Bank of America",
+          "ifsc": "BOFA",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_bofa-india.png",
+          "website": "http://bofa-india.com/"
+        },
+        {
+          "name": "Bank of Bahrain & Kuwait B.S.C.",
+          "ifsc": "BBKM",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_bbkindia.png",
+          "website": "https://www.bbkindia.com/"
+        },
+        {
+          "name": "Bank of Ceylon",
+          "ifsc": "BCEY",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_bankofceylon.png",
+          "website": "https://www.boc.lk/"
+        },
+        {
+          "name": "Bank of China",
+          "ifsc": "BCHN",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_bankofchina.png",
+          "website": "https://www.bankofchina.com/in/en/aboutus/"
+        },
+        {
+          "name": "Bank of Nova Scotia",
+          "ifsc": "NOSC",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_scotiabank.png",
+          "website": "https://www.scotiabank.com/global/en/country/india.html"
+        },
+        {
+          "name": "BNP Paribas",
+          "ifsc": "BNPA",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_bnpparibas.png",
+          "website": "http://www.bnpparibas.co.in/en/"
+        },
+        {
+          "name": "Citibank N.A.",
+          "ifsc": "CITI",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_citibank.png",
+          "website": "https://www.citibank.co.in/"
+        },
+        {
+          "name": "Cooperatieve Rabobank U.A./ Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A.",
+          "ifsc": "RABO",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_rabobank.png",
+          "website": "https://www.rabobank.com/en/locate-us/asia-pacific/india/cooperatieve-rabobank-ua.html"
+        },
+        {
+          "name": "Credit Agricole Corporate & Investment Bank",
+          "ifsc": "CRLY",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_ca-cib.png",
+          "website": "https://www.ca-cib.com/our-global-presence/asia-pacific/india/"
+        },
+        {
+          "name": "Credit Suisse AG",
+          "ifsc": "CRES",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_credit-suisse.png",
+          "website": "https://www.credit-suisse.com/in/en/investment-banking-apac/investment-banking-in-india/mumbai-bank-branch.htm"
+        },
+        {
+          "name": "CTBC Bank Co., Ltd.",
+          "ifsc": "CTCB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_chinatrustindia.png",
+          "website": "http://www.chinatrustindia.com/"
+        },
+        {
+          "name": "DBS Bank India Limited",
+          "ifsc": "DBSS",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_dbs.png",
+          "website": "https://www.dbs.com/india/default.page/"
+        },
+        {
+          "name": "Deutsche Bank A.G.",
+          "ifsc": "DEUT",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_deutschebank.png",
+          "website": "http://www.deutschebank.co.in/"
+        },
+        {
+          "name": "Doha Bank Q.P.S.C",
+          "ifsc": "DOHB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_dohabank.png",
+          "website": "http://dohabank.co.in/"
+        },
+        {
+          "name": "Emirates NBD Bank PJSC",
+          "ifsc": "EBIL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_emiratesnbd.png",
+          "website": "https://www.emiratesnbd.co.in/"
+        },
+        {
+          "name": "First Abu Dhabi Bank PJSC",
+          "ifsc": "NBAD",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_bankfab.png",
+          "website": "https://www.bankfab.com/en-in/"
+        },       
+        {
+          "name": "FirstRand Bank Limited",
+          "ifsc": "FIRN",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_firstrand.png",
+          "website": "https://www.firstrand.co.in/"
+        },
+        {
+          "name": "Hong Kong and Shanghai Banking Corporation Limited",
+          "ifsc": "HSBC",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_hsbc.png",
+          "website": "https://www.hsbc.co.in/1/2/homepage/"
+        },
+        {
+          "name": "Industrial & Commercial Bank of China Ltd.",
+          "ifsc": "ICBK",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_icbcindia.png",
+          "website": "http://www.icbcindia.com/"
+        },
+        {
+          "name": "Industrial Bank of Korea",
+          "ifsc": "IBKO",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_globalibk.png",
+          "website": "https://in.globalibk.com/iview/03/CMIBMAN0000/"
+        },
+        {
+          "name": "J.P. Morgan Chase Bank N.A.",
+          "ifsc": "CHAS",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_jpmorgan.png",
+          "website": "https://www.jpmorgan.com/IN/en/about-us/"
+        },
+        {
+          "name": "JSC VTB Bank",
+          "ifsc": "IBKL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_vtbindia.png",
+          "website": "http://www.vtbindia.com/"
+        },
+        {
+          "name": "KEB Hana Bank",
+          "ifsc": "KOEX",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_1qbank.png",
+          "website": "https://global.1qbank.com/lounge/chennai/et/main.html"
+        },
+        {
+          "name": "Kookmin Bank",
+          "ifsc": "KBKB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_kbfg.png",
+          "website": "https://www.kbfg.com/Eng/about/global/asia/india.jsp/"
+        },
+        {
+          "name": "Krung Thai Bank Public Co. Ltd.",
+          "ifsc": "KRTH",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_krungthai.png",
+          "website": "https://krungthai.com/th/content/mumbai-branch/"
+        },
+        {
+          "name": "Mashreq bank PSC",
+          "ifsc": "MSHQ",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_mashreqbank.png",
+          "website": "https://www.mashreqbank.com/uae/en/international-banking/network/india/"
+        },        
+        {
+          "name": "Mizuho Bank Ltd.",
+          "ifsc": "MHCB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_mizuhobank.png",
+          "website": "https://www.mizuhobank.com/india/index.html"
+        },
+        {
+          "name": "MUFG Bank, Ltd.",
+          "ifsc": "BOTM",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_mufg.png",
+          "website": "http://www.bk.mufg.jp/global/globalnetwork/asiaoceania/mumbai.html"
+        },
+        {
+          "name": "NatWest Markets Plc",
+          "ifsc": "ABNA",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_natwestmarkets.png",
+          "website": "https://www.natwestmarkets.in/"
+        },
+        {
+          "name": "PT Bank Maybank Indonesia TBK",
+          "ifsc": "IBBK",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_maybank.png",
+          "website": "https://www.maybank.co.in/"
+        },
+        {
+          "name": "Qatar National Bank (Q.P.S.C.)",
+          "ifsc": "QNBA",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_qnb.png",
+          "website": "https://www.qnb.com/sites/qnb/qnbindia/page/en/en-home.html"
+        },
+        {
+          "name": "Sberbank",
+          "ifsc": "SABR",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_sberbank.png",
+          "website": "http://www.sberbank.co.in/"
+        },
+        {
+          "name": "SBM Bank (India) Limited",
+          "ifsc": "STCB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_sbmbank.png",
+          "website": "https://www.sbmbank.co.in/"
+        },
+        {
+          "name": "Shinhan Bank",
+          "ifsc": "SHBK",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_shinhanglobal.png",
+          "website": "https://in.shinhanglobal.com/"
+        },
+        {
+          "name": "Societe Generale India",
+          "ifsc": "SOGE",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_societegenerale.png",
+          "website": "https://www.societegenerale.asia/en/country-details/country/india-2/"
+        },
+        {
+          "name": "Sonali Bank Ltd.",
+          "ifsc": "SBLD",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_sonalibank.png",
+          "website": "http://www.sonalibank.in/"
+        },
+        {
+          "name": "Standard Chartered Bank",
+          "ifsc": "SCBL",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_sc.png",
+          "website": "https://www.sc.com/in/"
+        },
+        {
+          "name": "Sumitomo Mitsui Banking Corporation",
+          "ifsc": "SMBC",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_smbc.png",
+          "website": "http://www.smbc.co.jp/global/india/"
+        },
+        {
+          "name": "United Overseas Bank Limited",
+          "ifsc": "UOVB",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_uobgroup.png",
+          "website": "https://www.uobgroup.com/in/"
+        },
+        {
+          "name": "Woori Bank",
+          "ifsc": "HVBK",
+          "icon": "https://cdn.jsdelivr.net/npm/banks-in-india@0.1.8/icons/foreign_banks/bi_wooribank.png",
+          "website": "https://go.wooribank.com/in/ib/main/IbMain.do"
+        }
+      ]
     }
   ]
 }
