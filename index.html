@@ -34,16 +34,42 @@
       <h1 id="banks-in-india">Banks in India</h1>
 <p>A collection of websites &amp; icons, and more for all active banks in India.</p>
 <ul>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#downloads">Downloads</a></li>
 <li><a href="#banking-structure">Banking Structure</a></li>
 <li><a href="#list-of-private-sector-banks-in-india">Private Sector Banks</a></li>
 <li><a href="#list-of-public-sector-banks-in-india">Public Sector Banks</a></li>
 <li><a href="#list-of-financial-institutions-in-india">Financial Institutions</a></li>
 <li><a href="#list-of-regional-rural-banks-in-india">Regional Rural Banks</a></li>
 <li><a href="#list-of-foreign-banks-having-banking-presence-in-india">Foreign Banks</a></li>
-<li><a href="#installation">Installation</a></li>
-<li><a href="#downloads">Downloads</a></li>
 <li><a href="#other-related-resources">Other Related Resources</a></li>
 </ul>
+<h3 id="installation">Installation</h3>
+<p>Install from your terminal via npm.</p>
+<pre><code class="bash language-bash">npm i banks-in-india
+</code></pre>
+<p>Below is the directory structure:</p>
+<pre><code class="asciidoc language-asciidoc"><span class="hljs-bullet">.
+</span>└── banks-in-india/
+<span class="hljs-code">    ├── datasets/</span>
+<span class="hljs-code">    │   └── banks-in-india.json</span>
+<span class="hljs-code">    │   └── names.json</span>
+<span class="hljs-code">    └── icons/</span>
+<span class="hljs-code">        ├── financial_institutions/</span>
+<span class="hljs-code">        ├── foreign_banks/</span>
+<span class="hljs-code">        ├── local_area_banks/</span>
+<span class="hljs-code">        ├── payment_banks/</span>
+<span class="hljs-code">        ├── private_sector_banks/</span>
+<span class="hljs-code">        ├── public_sector_banks/</span>
+<span class="hljs-code">        ├── regional_rurual_banks/</span>
+<span class="hljs-code">        └── small_finance_banks/</span>
+</code></pre>
+<h3 id="downloads">Downloads</h3>
+<ul>
+<li><a href="https://github.com/planetabhi/banks-in-india/archive/HEAD.zip">Download datasets</a></li>
+<li><a href="https://methodblack.gumroad.com/l/banks-in-india">Buy Figma icon library</a></li>
+</ul>
+<hr />
 <h3 id="banking-structure">Banking Structure</h3>
 <pre><code class="asciidoc language-asciidoc"><span class="hljs-code">                     ┌─────────────────────────┐</span>
 <span class="hljs-code">                     │   Ministry of Finance   │</span>
@@ -1076,30 +1102,6 @@
 
 </div>
 <hr />
-<h3 id="installation">Installation</h3>
-<p>Install from your terminal via npm.</p>
-<pre><code class="bash language-bash">npm i banks-in-india
-</code></pre>
-<p>Below is the directory structure:</p>
-<pre><code class="asciidoc language-asciidoc"><span class="hljs-bullet">.
-</span>└── banks-in-india/
-<span class="hljs-code">    ├── datasets/</span>
-<span class="hljs-code">    │   └── banks-names.json</span>
-<span class="hljs-code">    └── icons/</span>
-<span class="hljs-code">        ├── financial_institutions/</span>
-<span class="hljs-code">        ├── foreign_banks/</span>
-<span class="hljs-code">        ├── local_area_banks/</span>
-<span class="hljs-code">        ├── payment_banks/</span>
-<span class="hljs-code">        ├── private_sector_banks/</span>
-<span class="hljs-code">        ├── public_sector_banks/</span>
-<span class="hljs-code">        ├── regional_rurual_banks/</span>
-<span class="hljs-code">        └── small_finance_banks/</span>
-</code></pre>
-<h3 id="downloads">Downloads</h3>
-<ul>
-<li><a href="https://github.com/planetabhi/banks-in-india/archive/HEAD.zip">Download datasets</a></li>
-<li><a href="https://methodblack.gumroad.com/l/banks-in-india">Buy Figma icon library</a></li>
-</ul>
 <h3 id="other-related-resources">Other Related Resources</h3>
 <ul>
 <li><a href="https://www.rbi.org.in/scripts/banklinks.aspx">RBI Listing</a></li>
@@ -1140,7 +1142,7 @@ hr{color:var(--border);height:1px;flex:0 1 auto;margin:1em 0;padding:0;border:no
 a{color:var(--link);text-decoration:none}
 a:visited{color:var(--link-visited)}
 a:hover{color:var(--link-hover);text-decoration:underline}
-pre{background-color:var(--background-high-contrast);line-height:1.45;overflow:auto;padding:var(--spacing-06);font-size:var(--desktop-code);border-radius:var(--spacing-02);margin-bottom:var(--spacing-08);border:1px dotted var(--border-muted)}
+pre{background-color:var(--background);line-height:1.45;overflow:auto;padding:var(--spacing-06);font-size:var(--desktop-code);border-radius:var(--spacing-02);margin-bottom:var(--spacing-08);border:1px dotted var(--border-muted)}
 code{background-color:var(--background);margin:0;color:var(--pink4);word-wrap:break-word;padding:var(--spacing-00)var(--spacing-03);font-family:var(--monospace-code);font-size:var(--desktop-body-sm);border-radius:var(--spacing-02);font-optical-sizing:auto;font-weight:500;font-style:normal}
 pre>code{background-color:transparent;border:0;display:inline;line-height:inherit;margin:0;overflow:visible;padding:0;word-wrap:normal;font-size:var(--desktop-code);font-family:var(--monospace-code)}
 code.asciidoc{font-size:12px;color:var(--text-secondary)}

@@ -1,15 +1,48 @@
 # Banks in India
 A collection of websites & icons, and more for all active banks in India.
 
+- [Installation](#installation)
+- [Downloads](#downloads)
 - [Banking Structure](#banking-structure)
 - [Private Sector Banks](#list-of-private-sector-banks-in-india)
 - [Public Sector Banks](#list-of-public-sector-banks-in-india)
 - [Financial Institutions](#list-of-financial-institutions-in-india)
 - [Regional Rural Banks](#list-of-regional-rural-banks-in-india)
 - [Foreign Banks](#list-of-foreign-banks-having-banking-presence-in-india)
-- [Installation](#installation)
-- [Downloads](#downloads)
 - [Other Related Resources](#other-related-resources)
+
+### Installation
+
+Install from your terminal via npm.
+
+```bash
+npm i banks-in-india
+```
+
+Below is the directory structure:
+
+```asciidoc
+.
+└── banks-in-india/
+    ├── datasets/
+    │   └── banks-in-india.json
+    │   └── names.json
+    └── icons/
+        ├── financial_institutions/
+        ├── foreign_banks/
+        ├── local_area_banks/
+        ├── payment_banks/
+        ├── private_sector_banks/
+        ├── public_sector_banks/
+        ├── regional_rurual_banks/
+        └── small_finance_banks/
+```
+
+### Downloads
+- [Download datasets](https://github.com/planetabhi/banks-in-india/archive/HEAD.zip)
+- [Buy Figma icon library](https://methodblack.gumroad.com/l/banks-in-india)
+
+---
 
 ### Banking Structure
 
@@ -264,36 +297,6 @@ A collection of websites & icons, and more for all active banks in India.
 </div>
 
 ---
-
-### Installation
-
-Install from your terminal via npm.
-
-```bash
-npm i banks-in-india
-```
-
-Below is the directory structure:
-
-```asciidoc
-.
-└── banks-in-india/
-    ├── datasets/
-    │   └── banks-names.json
-    └── icons/
-        ├── financial_institutions/
-        ├── foreign_banks/
-        ├── local_area_banks/
-        ├── payment_banks/
-        ├── private_sector_banks/
-        ├── public_sector_banks/
-        ├── regional_rurual_banks/
-        └── small_finance_banks/
-```
-
-### Downloads
-- [Download datasets](https://github.com/planetabhi/banks-in-india/archive/HEAD.zip)
-- [Buy Figma icon library](https://methodblack.gumroad.com/l/banks-in-india)
 
 ### Other Related Resources
 - [RBI Listing](https://www.rbi.org.in/scripts/banklinks.aspx)

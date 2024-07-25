@@ -20,7 +20,7 @@ hr{color:var(--border);height:1px;flex:0 1 auto;margin:1em 0;padding:0;border:no
 a{color:var(--link);text-decoration:none}
 a:visited{color:var(--link-visited)}
 a:hover{color:var(--link-hover);text-decoration:underline}
-pre{background-color:var(--background-high-contrast);line-height:1.45;overflow:auto;padding:var(--spacing-06);font-size:var(--desktop-code);border-radius:var(--spacing-02);margin-bottom:var(--spacing-08);border:1px dotted var(--border-muted)}
+pre{background-color:var(--background);line-height:1.45;overflow:auto;padding:var(--spacing-06);font-size:var(--desktop-code);border-radius:var(--spacing-02);margin-bottom:var(--spacing-08);border:1px dotted var(--border-muted)}
 code{background-color:var(--background);margin:0;color:var(--pink4);word-wrap:break-word;padding:var(--spacing-00)var(--spacing-03);font-family:var(--monospace-code);font-size:var(--desktop-body-sm);border-radius:var(--spacing-02);font-optical-sizing:auto;font-weight:500;font-style:normal}
 pre>code{background-color:transparent;border:0;display:inline;line-height:inherit;margin:0;overflow:visible;padding:0;word-wrap:normal;font-size:var(--desktop-code);font-family:var(--monospace-code)}
 code.asciidoc{font-size:12px;color:var(--text-secondary)}
