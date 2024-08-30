@@ -1,27 +1,19 @@
 {
   "name": "banks-in-india",
-  "version": "0.2.0",
-  "description": "Banks in India: A collection of websites & icons, and more for all active banks in India.",
-  "main": "main.js",
+  "version": "0.3.0",
+  "description": "Sites & icons, and more for all active banks in India",
+  "type": "module",
   "scripts": {
-    "clean": "rimraf icons package *.tgz",
-    "export": "figma-export use-config figma.config.js",
-    "generate-icons": "npm-run-all clean export",
-    "html": "node convert.js",
-    "rename": "move-file README.html index.html",
-    "generate-page": "npm-run-all html rename",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/planetabhi/banks-in-india.git"
   },
-  "files": [
-    "icons/",
-    "datasets/"
-  ],
   "keywords": [
     "india",
     "banks",
@@ -30,28 +22,22 @@
     "icons",
     "websites"
   ],
-  "overrides": {
-    "vite": {
-      "rollup": "npm:@rollup/wasm-node"
-    }
-  },
-  "author": "Abhimanyu Rana <contact@new-ui.com> (https://planetabhi.com)",
-  "license": "GPL-3.0",
+  "author": "@planetabhi <contact@new-ui.com> (https://planetabhi.com)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/planetabhi/banks-in-india/issues"
   },
-  "homepage": "https://github.com/planetabhi/banks-in-india#readme",
+  "homepage": "https://banksin.in/",
+  "dependencies": {
+    "@astrojs/check": "^0.9.3",
+    "@astrojs/netlify": "^5.5.1",
+    "astro": "^4.15.1",
+    "typescript": "^5.5.4"
+  },
   "devDependencies": {
     "@new-ui/colors": "^1.3.0",
-    "@new-ui/spacings": "^0.1.1",
-    "@new-ui/typography": "^0.1.6",
-    "cheerio": "^1.0.0-rc.12",
-    "dotenv": "^16.4.5",
-    "highlight.js": "^11.10.0",
-    "move-file-cli": "^3.0.0",
-    "npm-run-all": "^4.1.5",
-    "rimraf": "^6.0.1",
-    "showdown": "^2.1.0",
-    "vite": "^5.3.4"
+    "@new-ui/reset": "^0.0.5",
+    "@new-ui/spacings": "^0.1.3",
+    "@sargamdesign/colors": "^3.0.1"
   }
 }

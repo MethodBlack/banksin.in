@@ -1,0 +1,30 @@
+---
+interface Props {
+	data: any[];
+}
+
+const { data } = Astro.props;
+const headers = ['ifsc', 'icon', 'name'];
+
+---
+
+<table>
+  <tbody>
+    {data.map((row) => (
+      <tr>
+        {headers.map((header) => (
+          <td>
+            {header === 'icon' 
+              ? <img src={row[header]} alt={`${row.name} icon`} />
+              : header === 'name'
+                ? <a href={row.website} target="_blank" rel="noopener noreferrer">{row[header]}</a>
+                : row[header]}
+          </td>
+        ))}
+      </tr>
+    ))}
+  </tbody>
+</table>
+
+<style>
+</style>

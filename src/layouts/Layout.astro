@@ -1,0 +1,51 @@
+---
+import '../styles/global.css';
+
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" data-new-ui-theme="dark">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Astro description" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>
+<style is:global>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  text-align: start;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+th {
+  background-color: var(--background);
+}
+
+tr:nth-child(even) {
+  background-color: var(--background);
+}
+
+img {
+  width: 1.5rem;
+  max-width: 100%;
+  height: auto;
+}
+</style>

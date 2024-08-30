@@ -1,0 +1,20 @@
+---
+import DataTable from './DataTable.astro';
+
+export interface Props {
+  title: string;
+  category: string;
+  content: any[];
+}
+
+const { title, content } = Astro.props;
+---
+
+<section>
+  <h2>{title}</h2>
+  {content.length > 0 ? (
+    <DataTable data={content} />
+  ) : (
+    <p>No banks.</p>
+  )}
+</section>
