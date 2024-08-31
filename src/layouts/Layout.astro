@@ -26,6 +26,7 @@ const { title } = Astro.props;
 table {
   border-collapse: collapse;
   width: 100%;
+  table-layout: fixed;
 }
 
 td,
@@ -33,6 +34,17 @@ th {
   text-align: start;
   display: inline-block;
   margin-right: 8px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 24rem;
+}
+
+@media (max-width: 639px) {
+  td,
+  th {
+    max-width: 14rem;
+  }
 }
 
 th {
@@ -48,4 +60,6 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+
 </style>

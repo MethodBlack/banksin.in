@@ -18,14 +18,10 @@ body {
   margin: 0;
   padding: 0.5rem;
   font-family: var(--mono);
-  font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures;
-  font-feature-settings: "liga", "dlig", "hlig";
   font-size: 1.375rem;
   line-height: 1.375rem;
   color: var(--text-primary);
   background: var(--background-high-contrast);
-  font-kerning: normal;
-  font-variant-numeric: oldstyle-nums proportional-nums;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -58,4 +54,11 @@ section {
 
 code {
   font-family: var(--mono);
+}
+
+@media (max-width: 359px) {
+  body, h1, h2, code {
+    font-size: 0.688rem;
+    line-height: 0.688rem;
+  }
 }

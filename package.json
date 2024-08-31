@@ -1,7 +1,7 @@
 {
   "name": "banks-in-india",
   "version": "0.3.0",
-  "description": "Sites & icons, and more for all active banks in India",
+  "description": "Websites & Icons for All Active Indian Banks",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
