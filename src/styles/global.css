@@ -56,7 +56,14 @@ code {
   font-family: var(--mono);
 }
 
-@media (max-width: 359px) {
+@media (max-width: 400px) {
+  body {
+    padding: 0.688rem;
+  }
+  header, section {
+    margin-bottom: 0.688rem;
+  }
+  
   body, h1, h2, code {
     font-size: 0.688rem;
     line-height: 0.688rem;
