@@ -6,13 +6,13 @@ import banksData from '../datasets/banksData.json';
 const { banks } = banksData;
 ---
 
+<main>
 <Layout title="Banks in India">
-	<section>
-	<h1># Banks in India</h1>
-	<p>Websites &amp; Icons</p>
-	<p><code>npm i -D banks-in-india</code></p>
+	<header>
+	<h1>Banks in India</h1>
+	<p><code>pnpm i -D banks-in-india</code></p>
 	<p><a href="https://methodblack.gumroad.com/l/banks-in-india" target="_blank">Figma icon library ↗</a></p>
-	</section>
+	</header>
 	{banks.map((section) => (
 	  <BankSection 
 		title={section.title} 
@@ -20,29 +20,25 @@ const { banks } = banksData;
 		content={section.content} 
 	  />
 	))}
-  </Layout>
-
-
+</Layout>
 <section>
-	<p># Miscellaneous</p>
+	<p> Misc</p>
 	<ul>
 		<li><a href="https://www.rbi.org.in/scripts/banklinks.aspx" target="_blank">RBI Listing ↗</a></li>
-		<li><a href="https://rbidocs.rbi.org.in/rdocs/content/docs/68774.xlsx" target="_blank">NEFT IFSCs from RBI ↗</a></li>
-		<li><a href="https://rbidocs.rbi.org.in/rdocs/RTGS/DOCs/RTGEB0815.xlsx" target="_blank">RTGS IFSCs from RBI ↗</a></li>
-		<li><a href="https://www.rbi.org.in/commonman/english/scripts/banksinindia.aspx" target="_blank">List of Banks in India ↗</a></li>
+		<li><a href="https://rbidocs.rbi.org.in/rdocs/content/docs/68774.xlsx" target="_blank">NEFT IFSCs ↗</a></li>
+		<li><a href="https://rbidocs.rbi.org.in/rdocs/RTGS/DOCs/RTGEB0815.xlsx" target="_blank">RTGS IFSCs ↗</a></li>
 		<li><a href="https://www.npci.org.in/what-we-do/nach/live-members/live-banks" target="_blank">Banks Live on NACH ↗</a></li>
 		<li><a href="https://www.npci.org.in/what-we-do/imps/live-members" target="_blank">Banks Live on IMPS ↗</a></li>
 		<li><a href="https://www.npci.org.in/what-we-do/autopay/list-of-banks-and-apps-live-on-autopay" target="_blank">Banks Live on AutoPay ↗</a></li>
 		<li><a href="https://www.npci.org.in/what-we-do/rupay/live-members" target="_blank">RuPay Live Members ↗</a></li>
-		<li><a href="https://www.npci.org.in/PDF/npci/ifsc-and-micr-codes/Merged-banks-IFSC-and-MICR.xlsx" target="_blank">Merged banks IFSC and MICR Codes ↗</a></li>
+		<li><a href="https://www.npci.org.in/PDF/npci/ifsc-and-micr-codes/Merged-banks-IFSC-and-MICR.xlsx" target="_blank">Merged banks Codes ↗</a></li>
 		<li><a href="https://www.npci.org.in/what-we-do/nach/live-members/blocked-banks" target="_blank">Blocked Banks on NACH ↗</a></li>
 	</ul>
 </section>
-
-
-<p>By: <a href="https://planetabhi.com/" target="_blank">@planetabhi</a> (^０^)ノ</p>
-<p><a href="https://www.jsdelivr.com/package/npm/banks-in-india"><img src="https://data.jsdelivr.com/v1/package/npm/banks-in-india/badge" style="height: 22px; width: auto" /></a></p>
-
+<footer>
+<p>By:<a href="https://planetabhi.com/" target="_blank">@planetabhi</a>(^０^)ノ</p>
+</footer>
+</main>
 <style>
 ol, ul {
   list-style: none;
