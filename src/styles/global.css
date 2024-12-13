@@ -94,7 +94,7 @@ section {
 }
 
 @media (max-width: 360px) {
-  body, h1, h2, code {
+  body, h1, h2, code, span, li, p, a {
     font-size: var(--mobile-body-sm);
     line-height: var(--mobile-body-sm);
   }
