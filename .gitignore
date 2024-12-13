@@ -2,3 +2,5 @@ node_modules
 dist
 .env
 .astro
+.DS_Store
+**/.DS_Store
